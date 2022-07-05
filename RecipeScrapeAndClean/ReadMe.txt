@@ -1,0 +1,5 @@
+This zip file contains two python program, no other packages needed to install to run the program. The program will produce two .csv files and one .txt file.
+1. scrape_method.py
+This file is to scrape the recipe instruction and ingredients with repect to the amount and unit form website 101cookbook. The program will generate two files: "reciperaw.txt" (stores the raw data scraped from the website),"recipe_instruction_try.csv"(contains recipe name and instruction, which is the recipe_instruction in python_ui to avoid override),and "cleaned_ingredient.csv"(contains recipe name, amount, unit and ingredidents)
+2. recipename_clean.py
+This file read the ingredients and further clean the content. The program will generate one file: 'recipe_clean_try.csv' (which is recipe_clean.csv in python_ui to avoid overrride)

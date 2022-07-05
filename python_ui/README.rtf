@@ -1,0 +1,59 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww12940\viewh16120\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 PYTHON_UI.ZIP README\
+\
+This folder includes all python files to set up the UI windows and necessary functions to implement some data, as well as some files created when running python files (EXCLUDING files generated from other programs).
+\fs24 \
+\
+\
+Manually installed modules:\
+1. PyQt5 modules are mentioned in Simon\'92s README\
+2. Please install fuzz module in the corresponding environment by \'93pip install fuzz\'94 in cmd(win)/terminal(MacOS)\
+\
+\
+Programs:\
+1. index.py: This file is used to set up the first window \'93Input Body Data\'94, where you can input age/height/weight/activity level/gender(click on the pic), then calculate corresponding calories
+\f1 . This program requires inputting two png files in the folder, named\'a1\'b1woman_posture.png\'a1\'b1 and \'a1\'b0man_posture.png\'a1\'b1\
+\
+
+\f0 2. ingredient_to_recipe.py: this program contains functions used to match ingredients with recipes, find prices of certain recipes and find the list of instructions of recipes. The program requires inputting files including \'93recipe_clean.csv\'94, \'93recipe_match.csv\'94 and \'93recipe_instruction.csv\'94\
+\
+3. main1.py: The program is used to design the first window\'92s UI furthermore and pass input text to later windows, and designed to check if the input ingredients could cause possible illness or allergy. The program requires to import index.py, nutrition_api.py and \'93FoodDataFinalClean.csv\'94.\
+\
+4. nutrition_api.py: //XUETING: This file is included in target.zip, I didn\'92t delete it in python_ui.zip, please check and delete this one\
+\
+5. nutrition_main.py:  //XUETING: This file is included in target.zip, I didn\'92t delete it in python_ui.zip, please check and delete this one\
+\
+6. python_ui.py: This program is used to set up UI of the third window \'93Recipes and REstaurants Recommendation\'94, especially for setting up two tableviews. The program requires two input files named \'93restaurant_clean.csv\'94 and \'93recipe_clean.csv\'94. The program also imports UI_new.py and recipe_match_instruction.py\
+\
+7. recipe_match_instruction.py: This program is used to read input ingredients and find all recipes that contain all these ingredients from recipe_clean.csv, then match instructions and prices to these recipes, write the result into \'93table.csv\'94. The program imports ingredient_to_recipe.py\
+\
+8. UI_new.py: \
+\
+\
+Manually input files:\
+1. 
+\f1 woman_posture.png
+\f0 \
+2. 
+\f1 man_posture.png\
+\
+\
+Files generated from 
+\f0 these
+\f1  programs:\
+1. table.csv
+\f0 \
+\
+\
+For XUETING Information:\
+1. FoodDataFinalClean
+\f1 .csv is generated from outside program by Xueting\
+2. recipe_clean.csv and recipe_instruction.csv are generated from outside program by Chenxu\
+3. recipe_match has no folder to put!!!\
+4. Remember to rename your restaurant_clean.csv}

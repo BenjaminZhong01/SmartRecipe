@@ -1,0 +1,1278 @@
+,Month,food_conflicts,result
+0,Winter&Summer,"ground beef, gravy, toast, egg dish",104 illness 2 Hospitalizations 0 Deaths 
+1,Spring,"cheese, deli meat, sliced turkey",6 illness 0 Hospitalizations 0 Deaths 
+2,Winter,"salad bar, pasta salad, tuna, mayonnaise",10 illness 0 Hospitalizations 0 Deaths 
+3,Spring,"pizza, meat, cheesy bread stick",8 illness 4 Hospitalizations 0 Deaths 
+4,Spring,"chicken, macaroni, cheese, turkey dishes, cream sauce",26 illness 0 Hospitalizations 0 Deaths 
+5,Winter,"flauta, chicken, chile relleno, lettuce",12 illness 0 Hospitalizations 0 Deaths 
+6,Summer,"sandwich, turkey, lettuce",64 illness 0 Hospitalizations 0 Deaths 
+7,Summer,"turkey, gravy, turkey loaf, potato, mashed",48 illness 0 Hospitalizations 0 Deaths 
+8,Summer,"rolls, watermelon, cheese, roll, bread",36 illness 0 Hospitalizations 0 Deaths 
+9,Spring,"zucchini, marinated, fried, bruschetta, tomatoes, mozzerella, proscuitto, melon, peppers, red, roasted",36 illness 4 Hospitalizations 0 Deaths 
+10,Spring,"deli meat, cheese, pre, sliced",80 illness 0 Hospitalizations 0 Deaths 
+11,Summer,"crispy chicken salad, grilled chicken salad, chicken salad, tomato, chicken, melon",20 illness 0 Hospitalizations 0 Deaths 
+12,Spring,"tomatoes, salads, tomato",18 illness 0 Hospitalizations 0 Deaths 
+13,Autumn,"green salad, ranch dressing, lettuce, sour cream",30 illness 0 Hospitalizations 0 Deaths 
+14,Winter,"cookies, frosting, icing",38 illness 0 Hospitalizations 0 Deaths 
+15,Winter,"cake, doughnuts, cookies",136 illness 4 Hospitalizations 0 Deaths 
+16,Winter,"sandwich, chicken, basil, bread, pork, mayonnaise",34 illness 0 Hospitalizations 0 Deaths 
+17,Winter,"salads, tuna salad, egg salad, leaf lettuce, leafy green",60 illness 4 Hospitalizations 0 Deaths 
+18,Winter,"chicken, roasted, pork",34 illness 0 Hospitalizations 0 Deaths 
+19,Winter,"house salad, cucumber, leafy green, onion, tomato",8 illness 0 Hospitalizations 0 Deaths 
+20,Autumn,"fish, ono, bok choy, sweet potato, leafy green, butter, cream",8 illness 0 Hospitalizations 0 Deaths 
+21,Winter,"nachos, cheese, lettuce, tomato",88 illness 0 Hospitalizations 0 Deaths 
+22,Winter,"fruit salad, grapes, melon, pineapple",278 illness 2 Hospitalizations 0 Deaths 
+23,Autumn,"ice, water, powdered mix",270 illness 0 Hospitalizations 0 Deaths 
+24,Spring,"rice, white, black beans, refried beans, yellow, chicken",8 illness 0 Hospitalizations 0 Deaths 
+25,Autumn,"lettuce based salads, salad dressings, cheddar cheese, milk, 1% milk pasteurized, leaf lettuce, pasteurized, vegetables",44 illness 0 Hospitalizations 0 Deaths 
+26,Spring,"chicken salad, lettuce, onion, tomato",20 illness 0 Hospitalizations 0 Deaths 
+27,Spring,"lasagna, beef, soup, speciality, egg",74 illness 10 Hospitalizations 0 Deaths 
+28,Spring,"pork, chicken, bbq",74 illness 2 Hospitalizations 0 Deaths 
+29,Summer,"chicken, curry, kabobs",18 illness 2 Hospitalizations 0 Deaths 
+30,Summer,"oysters, raw, salmon, smoked",10 illness 0 Hospitalizations 0 Deaths 
+31,Spring,"seal, blubber, oil",4 illness 2 Hospitalizations 0 Deaths 
+32,Winter,"milk, whole milk unpasteurized, cheese, unpasteurized",30 illness 2 Hospitalizations 0 Deaths 
+33,Spring,"beans, baked, pork, bbq",26 illness 0 Hospitalizations 0 Deaths 
+34,Autumn,"mayonnaise, homemade, homemade tartar sauce, vegetable, based salads, egg",8 illness 2 Hospitalizations 0 Deaths 
+35,Summer,"rice, white, noodles, wonton",12 illness 0 Hospitalizations 0 Deaths 
+36,Summer,"pre, packaged nuts, cake, chocolate, nuts, almonds",24 illness 0 Hospitalizations 0 Deaths 
+37,Spring,"sandwich, fish, based, green salad, ground beef, hamburger, lettuce, leaf lettuce, romaine lettuce",14 illness 0 Hospitalizations 0 Deaths 
+38,Summer,"fish, wahoo, rice, stir, fry",16 illness 0 Hospitalizations 0 Deaths 
+39,Summer,"bbq, chicken, sausage",12 illness 2 Hospitalizations 0 Deaths 
+40,Winter,"chili verde, chicken, marsala, sauces",42 illness 2 Hospitalizations 0 Deaths 
+41,Summer,"pork, bbq, potato salad, beans, baked, coleslaw",148 illness 14 Hospitalizations 0 Deaths 
+42,Autumn,"peppers, bell, ranch dressing, celery",24 illness 0 Hospitalizations 0 Deaths 
+43,Winter,"macaroni salad, gravy, beef, sliced, potatoes",52 illness 0 Hospitalizations 0 Deaths 
+44,Autumn,"sandwich, turkey, vegetable, based",52 illness 4 Hospitalizations 0 Deaths 
+45,Summer,"milk, whole milk unpasteurized, whole milk pasteurized",14 illness 0 Hospitalizations 0 Deaths 
+46,Spring,"chicken, fried, potato",36 illness 2 Hospitalizations 0 Deaths 
+47,Winter,"salad, carrots, cheese, cucumber, egg, leaf lettuce, onion, tomato",22 illness 0 Hospitalizations 0 Deaths 
+48,Spring,"multiple salads, fish, couscous, zucchini, mousse, water, ice, soup, vegetable, based, speciality, enchiladas, red salsa, chips, tortilla, ranch dressing, refried beans, melon, cake, salad dressings, pork, sweet, sour, mixed vegetables, egg rolls, banana, cookies",66 illness 2 Hospitalizations 0 Deaths 
+49,Summer,"vegetable, based salads, pasta, specialty",36 illness 0 Hospitalizations 0 Deaths 
+50,Winter,"chicken, buffalo wings, celery, blue cheese dressing, beer",6 illness 0 Hospitalizations 0 Deaths 
+51,Winter,"deli meat, multiple, bread",26 illness 0 Hospitalizations 0 Deaths 
+52,Winter,"chicken, marsala, pork",78 illness 10 Hospitalizations 0 Deaths 
+53,Winter,"sandwich, submarine, peppers, green, tomato",32 illness 0 Hospitalizations 0 Deaths 
+54,Spring,"salad, bread, lettuce",18 illness 0 Hospitalizations 0 Deaths 
+55,Spring,"chips, salsa, corn, cilantro, onion, peppers, tomato",36 illness 4 Hospitalizations 0 Deaths 
+56,Spring,"pizza, vegetable, bread, sourdough, broccoli, cheese, cream cheese, tomato",114 illness 2 Hospitalizations 0 Deaths 
+57,Spring,"rice, fried rice, white",6 illness 0 Hospitalizations 0 Deaths 
+58,Spring,"bean dishes, collard greens, chicken, dumplings, taco, apple crisp, dip, buffalo chicken",56 illness 0 Hospitalizations 0 Deaths 
+59,Spring,"sandwich, deli, american cheese, pasteurized, lettuce, tomatoes, red round",100 illness 0 Hospitalizations 0 Deaths 
+60,Spring,"beef, brisket, potato, mashed, gravy, potatoes",54 illness 0 Hospitalizations 0 Deaths 
+61,Spring,"cockles, mussels, clams, butter",42 illness 8 Hospitalizations 0 Deaths 
+62,Summer,"fried rice, pork, chops, spring roll",62 illness 0 Hospitalizations 0 Deaths 
+63,Summer&Autumn,"grouper, black, fish",12 illness 0 Hospitalizations 0 Deaths 
+64,Summer,"pork, bbq, beans",54 illness 0 Hospitalizations 0 Deaths 
+65,Autumn,"pasta, sauces, ground beef, salad",98 illness 0 Hospitalizations 0 Deaths 
+66,Autumn,"cake, black, white, filling, icing",12 illness 0 Hospitalizations 0 Deaths 
+67,Autumn,"alcohol, water, lemon, lime",16 illness 0 Hospitalizations 0 Deaths 
+68,Spring,"salsa, carnitas, tomato, pork",272 illness 0 Hospitalizations 0 Deaths 
+69,Summer,"beef, chili, refried beans, beans",44 illness 0 Hospitalizations 0 Deaths 
+70,Autumn,"cake, carrot, frosting, cream cheese",32 illness 0 Hospitalizations 0 Deaths 
+71,Autumn,"stuffing, gravy, mashed potato",90 illness 0 Hospitalizations 0 Deaths 
+72,Winter,"lamb, kabobs, chicken",22 illness 0 Hospitalizations 0 Deaths 
+73,Winter,"ham, turkey, roasted",28 illness 0 Hospitalizations 0 Deaths 
+74,Summer,"ackawi cheese, pasteurized, chives cheese",4 illness 4 Hospitalizations 2 Deaths 
+75,Autumn,"turkey, smoked, bbq",108 illness 6 Hospitalizations 0 Deaths 
+76,Spring,"rice crispy treat, brownies, n, a",56 illness 2 Hospitalizations 0 Deaths 
+77,Winter,"pork, roasted, yucca, rice, beans",16 illness 0 Hospitalizations 0 Deaths 
+78,Winter,"pizza, tostada, sandwich, submarine, lettuce",44 illness 8 Hospitalizations 0 Deaths 
+79,Winter,"garlic toast, salad, fish, haddock",16 illness 2 Hospitalizations 0 Deaths 
+80,Winter,"antipasto, salad, ice, water, pizza",206 illness 4 Hospitalizations 0 Deaths 
+81,Winter,"fruit salad, blueberries, grapes, pineapple, strawberries",12 illness 0 Hospitalizations 0 Deaths 
+82,Spring,"coleslaw, beans, baked, n, a",70 illness 6 Hospitalizations 0 Deaths 
+83,Spring,"milk, whole milk unpasteurized, ground beef",38 illness 10 Hospitalizations 0 Deaths 
+84,Spring,"mesclun mix, spinach, lettuce",58 illness 0 Hospitalizations 0 Deaths 
+85,Spring,"beef, brisket, soup, vegetable, based",140 illness 0 Hospitalizations 0 Deaths 
+86,Spring,"salad, sandwich, lettuce",14 illness 0 Hospitalizations 0 Deaths 
+87,Spring,"ground beef, hamburger, tea, dessert, strawberry",30 illness 2 Hospitalizations 0 Deaths 
+88,Spring&Winter,"pate, chicken liver, liver, chicken",29 illness 4 Hospitalizations 0 Deaths 
+89,Spring&Autumn&Spring,"sandwich, turkey, ham",239 illness 0 Hospitalizations 0 Deaths 
+90,Spring,"cheese, rice, beans, taco meat",216 illness 0 Hospitalizations 0 Deaths 
+91,Summer,"chicken, sweet, sour, juice, pineapple juice, salt, sugar, white",6 illness 0 Hospitalizations 0 Deaths 
+92,Summer,"fish, tuna, spicy roll",9 illness 0 Hospitalizations 0 Deaths 
+93,Winter,"salad, lettuce, leaf lettuce",186 illness 0 Hospitalizations 0 Deaths 
+94,Spring&Winter,"vegetable, based salads, lettuce",27 illness 2 Hospitalizations 0 Deaths 
+95,Summer,"sandwich, ham, cheese, macaroni, pork, bbq",96 illness 0 Hospitalizations 0 Deaths 
+96,Summer,"melon, jicama, cucumber salad",234 illness 0 Hospitalizations 0 Deaths 
+97,Winter,"potato, au gratin, ice, alcohol",76 illness 0 Hospitalizations 0 Deaths 
+98,Autumn,"balsamic asparagus, roasted red pepper, potato, steak, filet mignon, cake, n, a",46 illness 0 Hospitalizations 0 Deaths 
+99,Winter,"oysters, baked, buffet, egg, pork, bacon, spinach",8 illness 0 Hospitalizations 0 Deaths 
+100,Winter,"shrimp coconut, shrimp dijon, green beans, mushrooms, spinach stuffed",52 illness 0 Hospitalizations 0 Deaths 
+101,Winter,"butter, soda, n, a",142 illness 0 Hospitalizations 0 Deaths 
+102,Summer,"beef, brisket, barbecue sauce, onions, coleslaw, beans, potato salad",6 illness 0 Hospitalizations 0 Deaths 
+103,Autumn,"chicken, ribs, sausage",14 illness 2 Hospitalizations 0 Deaths 
+104,Winter,"chicken, noodles, salad",62 illness 0 Hospitalizations 0 Deaths 
+105,Autumn,"chicken, grilled, rice, brown, beans",6 illness 0 Hospitalizations 0 Deaths 
+106,Winter,"refried beans, rice, beans",20 illness 0 Hospitalizations 0 Deaths 
+107,Winter,"mahi, mahi burger, fish, mahi mahi",4 illness 0 Hospitalizations 0 Deaths 
+108,Winter,"cake, cheese, potato, baked",46 illness 0 Hospitalizations 0 Deaths 
+109,Spring,"sandwich, tuna fish, chicken",14 illness 0 Hospitalizations 0 Deaths 
+110,Spring,"chicken, roasted, rice, fried rice",28 illness 0 Hospitalizations 0 Deaths 
+111,Winter,"sandwich, salad, tomato",28 illness 2 Hospitalizations 0 Deaths 
+112,Spring,"lettuce, green leaf lettuce, romaine lettuce, spinach",22 illness 0 Hospitalizations 0 Deaths 
+113,Spring,"chicken, buffalo wings, fried rice",8 illness 0 Hospitalizations 0 Deaths 
+114,Spring,"beef, laab raw, intestine soup, vegetables, laab cooked, raw",42 illness 10 Hospitalizations 0 Deaths 
+115,Spring,"queso fresco, unpasteurized, milk, whole milk unpasteurized",52 illness 30 Hospitalizations 0 Deaths 
+116,Spring,"salsa, tomatillo, pork, carnitas",52 illness 0 Hospitalizations 0 Deaths 
+117,Spring,"batch egg, cheese, chicken, sandwich, spaghetti",64 illness 0 Hospitalizations 0 Deaths 
+118,Spring,"turkey, coleslaw, cabbage, carrots, sour cream, mayonnaise",66 illness 0 Hospitalizations 0 Deaths 
+119,Spring,"bread, wheat, swiss cheese, pasteurized",14 illness 0 Hospitalizations 0 Deaths 
+120,Spring,"taco, fish, mahi mahi",4 illness 0 Hospitalizations 0 Deaths 
+121,Spring,"chicken, beef, brisket, sausage, beans, rice",24 illness 4 Hospitalizations 0 Deaths 
+122,Spring,"salad, cheese, lettuce, tomatoes, red round",110 illness 0 Hospitalizations 0 Deaths 
+123,Spring,"chicken, beef, rice",16 illness 0 Hospitalizations 0 Deaths 
+124,Summer,"sandwich, deli meat, sliced ham",50 illness 4 Hospitalizations 0 Deaths 
+125,Spring,"chicken, noodles, rice, fried rice",64 illness 0 Hospitalizations 0 Deaths 
+126,Spring,"beef, potato, au gratin",64 illness 0 Hospitalizations 0 Deaths 
+127,Spring,"ham, ice cream, homemade, stuffing, dressing, pie, peach, coconut cream",54 illness 2 Hospitalizations 0 Deaths 
+128,Summer,"falafel, chick peas, egg, eggplant",60 illness 0 Hospitalizations 0 Deaths 
+129,Spring,"shrimp, steamed, ice, ice cream, commercial",56 illness 0 Hospitalizations 0 Deaths 
+130,Summer,"crab, soup, gazpacho, tomato",18 illness 0 Hospitalizations 0 Deaths 
+131,Summer,"rice dishes, rice, white",14 illness 2 Hospitalizations 0 Deaths 
+132,Summer,"pork, tripe, potato, rice, corn, guinea pig",238 illness 22 Hospitalizations 0 Deaths 
+133,Summer,"steak, mashed potato, gravy, caesar salad",8 illness 0 Hospitalizations 0 Deaths 
+134,Summer,"sushi, rice, salmon heads, tuna",20 illness 0 Hospitalizations 0 Deaths 
+135,Summer,"seal, oil, muktuk",4 illness 4 Hospitalizations 0 Deaths 
+136,Autumn,"chicken, curry, spinach, white rice",14 illness 0 Hospitalizations 0 Deaths 
+137,Autumn,"salad, vegetable tray, cheese dish, dips, fruit",68 illness 0 Hospitalizations 0 Deaths 
+138,Autumn,"red beans, rice, chicken, grilled, brat",44 illness 0 Hospitalizations 0 Deaths 
+139,Summer,"green beans, macaroni, cheese",76 illness 60 Hospitalizations 0 Deaths 
+140,Autumn,"ham, beef, stroganoff, gravy",26 illness 0 Hospitalizations 0 Deaths 
+141,Autumn,"[""hors doeuvres"", water, ice",68 illness 0 Hospitalizations 0 Deaths 
+142,Autumn&Spring&Autumn&Winter,"milk, unpasteurized, whole milk unpasteurized",56 illness 17 Hospitalizations 0 Deaths 
+143,Autumn,"italian submarine sandwich, bread, white, ham, salami, pork, pepperroni",8 illness 0 Hospitalizations 0 Deaths 
+144,Autumn,"black bean casserole, rice, black beans, long grain",38 illness 0 Hospitalizations 0 Deaths 
+145,Winter,"relish tray, bread, baguette, cheese, fruit, olives, pickles",18 illness 0 Hospitalizations 0 Deaths 
+146,Autumn,"turkey, stuffing, potato, mashed",30 illness 0 Hospitalizations 0 Deaths 
+147,Autumn,"ground beef, hamburger, caesar dressing, egg",4 illness 0 Hospitalizations 0 Deaths 
+148,Summer,"chicken wrap, prepackaged leafy greens, lettuce",30 illness 20 Hospitalizations 0 Deaths 
+149,Winter&Autumn,"spaghetti w, meat sauce, cheese",296 illness 50 Hospitalizations 0 Deaths 
+150,Autumn,"turkey, stuffing, gravy, chicken",28 illness 0 Hospitalizations 0 Deaths 
+151,Winter,"fish hot pot, beef lung in chili sauce, pork kidney, chicken dish",86 illness 2 Hospitalizations 0 Deaths 
+152,Autumn,"chicken, fajita, beef, steak",28 illness 12 Hospitalizations 2 Deaths 
+153,Winter,"pork, shrimp, fried",10 illness 0 Hospitalizations 0 Deaths 
+154,Autumn,"thai chicken lettuce wrap, salad, chicken, grilled, egg",124 illness 4 Hospitalizations 0 Deaths 
+155,Winter,"chicken, fried, broccoli, rice",12 illness 0 Hospitalizations 0 Deaths 
+156,Winter,"sandwich, ham, bread",28 illness 0 Hospitalizations 0 Deaths 
+157,Summer,"sushi, raw, fish, tuna",38 illness 2 Hospitalizations 0 Deaths 
+158,Summer,"chicken, teriyaki, shrimp, rice",4 illness 0 Hospitalizations 0 Deaths 
+159,Winter,"salad, carrots, cucumber, peppers, green, tomato",88 illness 0 Hospitalizations 0 Deaths 
+160,Summer,"oysters, raw, clams, steamed",20 illness 2 Hospitalizations 0 Deaths 
+161,Summer,"oysters, raw, clams",115 illness 0 Hospitalizations 0 Deaths 
+162,Spring,"beef(fresly killed cow), raw and, or undercooked, beef",274 illness 12 Hospitalizations 0 Deaths 
+163,Spring,"hot dog, hamburger, bun, onions",16 illness 0 Hospitalizations 0 Deaths 
+164,Spring,"beef, laab raw, boiled beef",50 illness 4 Hospitalizations 0 Deaths 
+165,Spring,"dairy, queso fresco, unpasteurized, milk",4 illness 0 Hospitalizations 0 Deaths 
+166,Spring,"lettuce, tomatoes, tomato",14 illness 0 Hospitalizations 0 Deaths 
+167,Spring,"beef, bbq, chicken, pie, pecan",6 illness 0 Hospitalizations 0 Deaths 
+168,Spring,"beef, brisket, ribs, smoked sausage, chicken",10 illness 0 Hospitalizations 0 Deaths 
+169,Spring,"frozen yogurt, skim milk, pasteurized, water",12 illness 0 Hospitalizations 0 Deaths 
+170,Spring,"salad bar items, lettuce, tomatoes, red round",8 illness 4 Hospitalizations 0 Deaths 
+171,Spring,"lettuce, tomatoes, tortilla",20 illness 0 Hospitalizations 0 Deaths 
+172,Spring,"chocolate milk, pasteurized, milk, 2% milk pasteurized",64 illness 0 Hospitalizations 0 Deaths 
+173,Spring,"quesadillas, chicken, cheese, tortilla, cilantro",128 illness 4 Hospitalizations 0 Deaths 
+174,Spring,"ground beef, hamburger, chips, lemonade",8 illness 0 Hospitalizations 0 Deaths 
+175,Summer,"shrimp, raw, pork, eggs, egg",4 illness 0 Hospitalizations 0 Deaths 
+176,Spring,"shrimp dishes, cheese, shrimp",4 illness 0 Hospitalizations 0 Deaths 
+177,Summer,"tuna, raw, fish",4 illness 0 Hospitalizations 0 Deaths 
+178,Summer,"fruit platter, blueberries, cantaloupe, honeydew melon, strawberries",42 illness 0 Hospitalizations 0 Deaths 
+179,Summer,"scallops, fried, shrimp",4 illness 4 Hospitalizations 0 Deaths 
+180,Summer&Autumn,"egg, in, muffin, style sandwich",11 illness 0 Hospitalizations 0 Deaths 
+181,Summer,"chicken, fried, dressing, ham, turkey, bread, crumbs",38 illness 6 Hospitalizations 0 Deaths 
+182,Summer,"egg rolls, cabbage, carrots, pork, mayonnaise",8 illness 0 Hospitalizations 0 Deaths 
+183,Summer,"fettuccine alfredo, chicken, onion, shrimp, squash, yellow, zucchini",60 illness 2 Hospitalizations 0 Deaths 
+184,Spring,"blueberries, danish, pancakes, chicken, carrots, cookies, paella, potato, whipped, lamb, peppers, coconut rice pudding, grape tomatoes",62 illness 0 Hospitalizations 0 Deaths 
+185,Autumn,"deli meat, sliced roast beef, beef, ice",6 illness 0 Hospitalizations 0 Deaths 
+186,Summer,"seafood, fish, tilapia, lobster, shrimp",4 illness 0 Hospitalizations 0 Deaths 
+187,Autumn,"fish, tuna, spicy roll, yellowfin tuna",4 illness 0 Hospitalizations 0 Deaths 
+188,Autumn,"fish, red grouper, grouper",4 illness 0 Hospitalizations 0 Deaths 
+189,Autumn&Spring,"milk, whole milk unpasteurized, unpasteurized",8 illness 0 Hospitalizations 0 Deaths 
+190,Autumn,"macaroni, cheese, mashed potato, gravy, turkey",40 illness 0 Hospitalizations 0 Deaths 
+191,Autumn,"refried beans, beans, rice",12 illness 0 Hospitalizations 0 Deaths 
+192,Winter,"pork, carnitas, barbacoa, beef",10 illness 0 Hospitalizations 0 Deaths 
+193,Winter,"ice, green beans, chicken, marsala, mushrooms",62 illness 0 Hospitalizations 0 Deaths 
+194,Autumn,"salmon, smoked, fish",6 illness 2 Hospitalizations 0 Deaths 
+195,Winter,"fried rice, stir, fry",16 illness 0 Hospitalizations 0 Deaths 
+196,Winter,"ginger, apple, collard greens, kale, pineapple",4 illness 0 Hospitalizations 0 Deaths 
+197,Winter,"mushroom, swiss hamburger sandwich, bread, ground beef, mushrooms, swiss cheese",8 illness 0 Hospitalizations 0 Deaths 
+198,Winter,"tortilla chips, salsa, enchiladas",6 illness 0 Hospitalizations 0 Deaths 
+199,Winter,"french fries, spinach artichoke dip, quesadilla, chicken, cheese",14 illness 0 Hospitalizations 0 Deaths 
+200,Winter,"cantaloupe, pineapple, grapes",70 illness 0 Hospitalizations 0 Deaths 
+201,Summer,"taco, beef, eggs, onion",310 illness 32 Hospitalizations 0 Deaths 
+202,Autumn,"lasagna, ravioli, eggs",66 illness 0 Hospitalizations 0 Deaths 
+203,Winter&Summer,"mashed potato, gravy, chicken",14 illness 0 Hospitalizations 0 Deaths 
+204,Winter,"water, celery, peppers, green",124 illness 4 Hospitalizations 0 Deaths 
+205,Autumn,"chow mein, pork, bbq",8 illness 0 Hospitalizations 0 Deaths 
+206,Autumn,"chicken, nuggets, fingers",35 illness 0 Hospitalizations 0 Deaths 
+207,Autumn,"chicken, smoked, beans",4 illness 0 Hospitalizations 0 Deaths 
+208,Autumn&Spring&Winter,"chicken, potato, mashed",25 illness 0 Hospitalizations 0 Deaths 
+209,Spring,"noodles, chicken, pork",4 illness 0 Hospitalizations 0 Deaths 
+210,Spring&Autumn&Winter,"chicken, fried, potato, mashed",80 illness 0 Hospitalizations 0 Deaths 
+211,Winter,"egg, in, muffin, style sandwich, eggs",4 illness 0 Hospitalizations 0 Deaths 
+212,Winter,"chicken, tandori, vegetable soup",6 illness 0 Hospitalizations 0 Deaths 
+213,Winter,"egg rolls, fried rice, seafood",4 illness 0 Hospitalizations 0 Deaths 
+214,Spring,"french toast, pork, bacon, ham, egg",354 illness 16 Hospitalizations 0 Deaths 
+215,Spring,"sausage, beef, brisket",100 illness 0 Hospitalizations 0 Deaths 
+216,Spring,"gravy, roast beef, hot dog",20 illness 0 Hospitalizations 0 Deaths 
+217,Winter&Spring,"deli meat, sliced ham, sliced turkey",75 illness 0 Hospitalizations 0 Deaths 
+218,Winter,"water, green beans, ice cream",88 illness 0 Hospitalizations 0 Deaths 
+219,Winter,"zucchini, cake, custard, filled, vegetable dip",20 illness 0 Hospitalizations 0 Deaths 
+220,Autumn,"gravy, turkey, sauces, dressings",250 illness 2 Hospitalizations 0 Deaths 
+221,Autumn,"pizza, bread, garlic",10 illness 0 Hospitalizations 0 Deaths 
+222,Summer,"tomato, roast beef, green pea salad",28 illness 0 Hospitalizations 0 Deaths 
+223,Summer,"liquor, roast beef, beef",48 illness 2 Hospitalizations 0 Deaths 
+224,Summer,"cheese, deli meat, sliced ham, sliced turkey",72 illness 0 Hospitalizations 0 Deaths 
+225,Autumn,"tamale, chicken, baked",174 illness 0 Hospitalizations 0 Deaths 
+226,Spring,"chicken, potato, coleslaw",6 illness 0 Hospitalizations 0 Deaths 
+227,Winter,"chicken, nuggets, fingers, french fries, lettuce, based salads",10 illness 0 Hospitalizations 0 Deaths 
+228,Spring,"burrito, fajita, chicken",4 illness 0 Hospitalizations 0 Deaths 
+229,Spring,"fruit, vegetable, based salads",86 illness 0 Hospitalizations 0 Deaths 
+230,Summer,"mashed potato, gravy, biscuits, chicken",24 illness 0 Hospitalizations 0 Deaths 
+231,Autumn,"macaroni, cheese, deli meat, sliced turkey ham",38 illness 0 Hospitalizations 0 Deaths 
+232,Autumn,"chicken, marsala, tuna, fin fish",76 illness 0 Hospitalizations 0 Deaths 
+233,Winter,"egg salad, egg salad sandwich, fish, white",46 illness 0 Hospitalizations 0 Deaths 
+234,Summer,"gravy, chicken, roasted",40 illness 2 Hospitalizations 0 Deaths 
+235,Autumn,"beverage, cake, brownie, salad",14 illness 0 Hospitalizations 0 Deaths 
+236,Summer,"pudding, rice, cake, tiramisu, caesar salad, egg",10 illness 0 Hospitalizations 0 Deaths 
+237,Spring,"milk, 1% milk unpasteurized, sauces",40 illness 6 Hospitalizations 0 Deaths 
+238,Summer,"nachos, cheese, burrito, beef",146 illness 32 Hospitalizations 0 Deaths 
+239,Winter,"steak, prime rib, potato, baked",90 illness 0 Hospitalizations 0 Deaths 
+240,Winter&Summer&Spring,"lettuce, based salads, leafy green",168 illness 17 Hospitalizations 0 Deaths 
+241,Autumn,"ground beef, sausage, shrimp dishes, kidney bean",52 illness 0 Hospitalizations 0 Deaths 
+242,Autumn,"enchilada, taco, rice",8 illness 0 Hospitalizations 0 Deaths 
+243,Winter&Summer,"burrito, chicken, enchilada",78 illness 0 Hospitalizations 0 Deaths 
+244,Winter,"ground beef, hamburger, chicken, french fries",12 illness 0 Hospitalizations 0 Deaths 
+245,Winter,"rice, chicken, egg rolls",12 illness 0 Hospitalizations 0 Deaths 
+246,Autumn&Spring,"ground beef, cheeseburger, pork, bacon",10 illness 0 Hospitalizations 0 Deaths 
+247,Summer,"gravy, beef, roast beef",110 illness 0 Hospitalizations 0 Deaths 
+248,Winter,"ham, potato, salad",80 illness 0 Hospitalizations 0 Deaths 
+249,Summer,"macaroni, cheese, salad",4 illness 0 Hospitalizations 0 Deaths 
+250,Summer,"fish eggs, french fries, coleslaw",4 illness 0 Hospitalizations 0 Deaths 
+251,Summer,"taco, beef, steak dish",4 illness 0 Hospitalizations 0 Deaths 
+252,Spring,"ground beef, sloppy joe, corn",42 illness 0 Hospitalizations 0 Deaths 
+253,Summer&Spring,"eggs, bread, pork, bacon",6 illness 0 Hospitalizations 0 Deaths 
+254,Autumn,"taco, cake, ice cream",20 illness 0 Hospitalizations 0 Deaths 
+255,Spring,"ground beef, hamburger, onion",4 illness 0 Hospitalizations 0 Deaths 
+256,Spring,"chicken, shrimp, salad",4 illness 0 Hospitalizations 0 Deaths 
+257,Spring,"sandwich, turkey club, spinach",4 illness 0 Hospitalizations 0 Deaths 
+258,Spring,"french toast, beef, jerky",4 illness 0 Hospitalizations 0 Deaths 
+259,Winter,"sandwich, reuben, ground beef, hamburger",6 illness 0 Hospitalizations 0 Deaths 
+260,Winter,"chicken, cake, cheese",4 illness 0 Hospitalizations 0 Deaths 
+261,Winter,"macaroni, cheese, chicken",12 illness 0 Hospitalizations 0 Deaths 
+262,Winter,"eggs, pork, bacon, potato",4 illness 0 Hospitalizations 0 Deaths 
+263,Autumn,"gravy, beef, lettuce, based salads",40 illness 0 Hospitalizations 0 Deaths 
+264,Autumn,"beef, steak dish, shrimp",6 illness 0 Hospitalizations 0 Deaths 
+265,Spring,"steak, shrimp, potato",4 illness 0 Hospitalizations 0 Deaths 
+266,Winter,"chicken, steak, beef tips, gravy",70 illness 0 Hospitalizations 0 Deaths 
+267,Autumn,"sauces, fried rice, chicken, buffalo wings",8 illness 0 Hospitalizations 0 Deaths 
+268,Winter,"clams, raw, oysters",6 illness 0 Hospitalizations 0 Deaths 
+269,Spring,"chicken salad, ham, chicken, pork",130 illness 6 Hospitalizations 0 Deaths 
+270,Winter,"unknown beverage, ground beef, cheeseburger, french fries",4 illness 0 Hospitalizations 0 Deaths 
+271,Summer,"steak, prime rib, green beans",4 illness 0 Hospitalizations 0 Deaths 
+272,Summer,"chicken, sauces, dressings",8 illness 0 Hospitalizations 0 Deaths 
+273,Summer,"cheese, omelette, tomato",4 illness 0 Hospitalizations 0 Deaths 
+274,Autumn,"goat, stew, chicken, sweet, sour",4 illness 0 Hospitalizations 0 Deaths 
+275,Summer,"frosting, icing, whipped cream, strudel",14 illness 0 Hospitalizations 0 Deaths 
+276,Summer,"sausage, crab, cookies",28 illness 0 Hospitalizations 0 Deaths 
+277,Winter,"eggs, biscuits, gravy",4 illness 0 Hospitalizations 0 Deaths 
+278,Winter,"rice, chicken, pork",6 illness 0 Hospitalizations 0 Deaths 
+279,Autumn,"chicken, carrots, potato, mashed",78 illness 0 Hospitalizations 0 Deaths 
+280,Autumn,"oysters, raw, hot sauce, sauces, shellfish",10 illness 0 Hospitalizations 0 Deaths 
+281,Autumn,"sandwich, hoagie, stew, chili, bread",184 illness 0 Hospitalizations 0 Deaths 
+282,Autumn,"soup, beef, based, fish, gifilte, lettuce",86 illness 0 Hospitalizations 0 Deaths 
+283,Summer,"bread, cornbread dressing, crawfish, crayfish, eggplant dressing",408 illness 0 Hospitalizations 0 Deaths 
+284,Spring,"beets, pudding, bread",130 illness 0 Hospitalizations 0 Deaths 
+285,Autumn,"green beans, vine, stalk eg. tomato",76 illness 0 Hospitalizations 0 Deaths 
+286,Autumn,"soup, pork, based, corn",34 illness 0 Hospitalizations 0 Deaths 
+287,Winter,"crab, steamed, shrimp",14 illness 0 Hospitalizations 0 Deaths 
+288,Winter,"ham, beef, chili, turkey, smoked",46 illness 0 Hospitalizations 0 Deaths 
+289,Summer,"fish, kole, manini, fin fish",8 illness 0 Hospitalizations 2 Deaths 
+290,Summer&Spring&Spring,"fish, marlin, fin fish",45 illness 0 Hospitalizations 0 Deaths 
+291,Spring&Summer&Summer&Summer&Summer&Autumn&Winter,"fish, grouper, fin fish",29 illness 0 Hospitalizations 0 Deaths 
+292,Autumn,"burrito, chicken, taco, nuggets, fingers",16 illness 2 Hospitalizations 0 Deaths 
+293,Winter,"salsa, ice, ground beef",82 illness 8 Hospitalizations 0 Deaths 
+294,Spring,"chicken pot pie, lettuce, based salads",72 illness 0 Hospitalizations 0 Deaths 
+295,Spring,"hot dog, tomato sauce, bread",108 illness 0 Hospitalizations 0 Deaths 
+296,Summer,"deviled eggs, roast beef, egg, beef",52 illness 0 Hospitalizations 0 Deaths 
+297,Winter,"rice, white, beef, stew, plantains",36 illness 0 Hospitalizations 0 Deaths 
+298,Autumn,"fajita, beef, leafy green, vine, stalk eg. tomato",12 illness 0 Hospitalizations 0 Deaths 
+299,Winter,"fish, grouper, sauces, dressings",4 illness 0 Hospitalizations 0 Deaths 
+300,Winter,"multiple cheeses, chips, salsa, cheese",56 illness 0 Hospitalizations 0 Deaths 
+301,Autumn,"chicken, fried, shrimp",4 illness 0 Hospitalizations 0 Deaths 
+302,Autumn,"crab, steamed, shrimp, sushi",4 illness 0 Hospitalizations 0 Deaths 
+303,Summer,"stew, chili, ground beef, hamburger, beef",38 illness 2 Hospitalizations 0 Deaths 
+304,Summer,"rice, yellow, fish, catfish",4 illness 0 Hospitalizations 0 Deaths 
+305,Summer,"beef, chimichanga, steak taquitos",6 illness 0 Hospitalizations 0 Deaths 
+306,Summer,"oysters, fried, shrimp",4 illness 0 Hospitalizations 0 Deaths 
+307,Summer,"fried rice, chicken, bbq, ribs, beef",4 illness 0 Hospitalizations 0 Deaths 
+308,Summer,"ground beef, hamburger, cheeseburger",8 illness 0 Hospitalizations 0 Deaths 
+309,Summer,"shrimp, raw, shrimp dishes, shrimp scampi",4 illness 0 Hospitalizations 0 Deaths 
+310,Summer,"cake, frosting, icing, whipped cream",6 illness 0 Hospitalizations 0 Deaths 
+311,Winter,"stir, fry, lettuce, based salads",78 illness 0 Hospitalizations 0 Deaths 
+312,Summer&Autumn,"burrito, bean, beef",1293 illness 0 Hospitalizations 0 Deaths 
+313,Summer,"pizza, rolls, cake",30 illness 2 Hospitalizations 0 Deaths 
+314,Summer,"macaroni, cheese, lasagna",6 illness 0 Hospitalizations 0 Deaths 
+315,Summer,"fish, grouper, snapper, fin fish",4 illness 0 Hospitalizations 0 Deaths 
+316,Summer,"nachos, ribs, pork",4 illness 0 Hospitalizations 0 Deaths 
+317,Spring&Autumn,"soda, ground beef, cheeseburger, french fries",9 illness 0 Hospitalizations 0 Deaths 
+318,Spring,"nachos, chips, salsa",4 illness 0 Hospitalizations 0 Deaths 
+319,Spring,"nachos, cheese, chicken, buffalo wings",8 illness 0 Hospitalizations 0 Deaths 
+320,Spring,"cheese, tortilla, beans",6 illness 0 Hospitalizations 0 Deaths 
+321,Winter,"deli meat, pastrami, sliced roast beef, sandwich, corned beef",12 illness 0 Hospitalizations 0 Deaths 
+322,Winter,"scallops, shrimp, crustacean",18 illness 0 Hospitalizations 0 Deaths 
+323,Winter,"pork, bbq, beans, baked",20 illness 0 Hospitalizations 0 Deaths 
+324,Winter,"stir, fry, caesar salad",70 illness 2 Hospitalizations 0 Deaths 
+325,Winter,"pudding, chocolate, salad, cake, carrot",6 illness 0 Hospitalizations 0 Deaths 
+326,Winter,"seafood, shrimp, salad",6 illness 0 Hospitalizations 0 Deaths 
+327,Winter,"pasta, chicken, marsala",16 illness 0 Hospitalizations 0 Deaths 
+328,Winter,"oysters, mushrooms, salad",4 illness 0 Hospitalizations 0 Deaths 
+329,Winter,"condiment, ground beef, hamburger",12 illness 0 Hospitalizations 0 Deaths 
+330,Winter,"fried onions, onion rings, cake, cheese",4 illness 0 Hospitalizations 0 Deaths 
+331,Autumn,"rice, seafood, oysters",4 illness 0 Hospitalizations 0 Deaths 
+332,Autumn,"condiment, sandwich, tuna fish",4 illness 0 Hospitalizations 0 Deaths 
+333,Summer,"burrito, beef, bean",162 illness 0 Hospitalizations 0 Deaths 
+334,Summer,"chicken, ribs, pork",4 illness 2 Hospitalizations 0 Deaths 
+335,Summer,"beef, chicken, french fries",4 illness 0 Hospitalizations 0 Deaths 
+336,Spring,"soda, ground beef, hamburger, french fries",4 illness 0 Hospitalizations 0 Deaths 
+337,Spring,"fried rice, chicken, fried",14 illness 0 Hospitalizations 0 Deaths 
+338,Spring,"rice, chicken, fried, beans",8 illness 0 Hospitalizations 0 Deaths 
+339,Spring,"fish, grouper, salmon",6 illness 0 Hospitalizations 0 Deaths 
+340,Spring,"rice, chicken, beans",4 illness 0 Hospitalizations 0 Deaths 
+341,Winter,"chicken, nuggets, fingers, french fries, soda",4 illness 2 Hospitalizations 0 Deaths 
+342,Winter,"turkey, potato, scalloped",44 illness 0 Hospitalizations 0 Deaths 
+343,Autumn,"deli meat, multiple, pre, packaged salad",92 illness 0 Hospitalizations 0 Deaths 
+344,Summer,"deli meat, sliced ham, sliced roast beef, sliced turkey",4 illness 4 Hospitalizations 2 Deaths 
+345,Winter,"stuffing, pork, roasted",8 illness 0 Hospitalizations 0 Deaths 
+346,Winter,"cake, brownie, baked goods",4 illness 0 Hospitalizations 0 Deaths 
+347,Autumn,"chicken, buffalo wings, blue cheese dressing",22 illness 0 Hospitalizations 0 Deaths 
+348,Autumn,"soda, egg salad, egg salad sandwich",6 illness 2 Hospitalizations 0 Deaths 
+349,Autumn,"fish, amberjack, mackeral",32 illness 8 Hospitalizations 0 Deaths 
+350,Winter,"oysters, vegetable, based salads",6 illness 0 Hospitalizations 0 Deaths 
+351,Winter,"french toast, shell eggs, scrambled hard, egg",20 illness 0 Hospitalizations 0 Deaths 
+352,Summer,"chicken, ice, mixed vegetables",96 illness 0 Hospitalizations 0 Deaths 
+353,Summer,"pizza, meat, vegetable, pork",8 illness 0 Hospitalizations 0 Deaths 
+354,Winter,"burrito, stew, chili, egg",8 illness 0 Hospitalizations 0 Deaths 
+355,Spring,"sandwich, pasta, fruit",12 illness 0 Hospitalizations 0 Deaths 
+356,Autumn,"hollandaise sauce, fish, halibut, crab",28 illness 0 Hospitalizations 0 Deaths 
+357,Winter,"refried beans, peppers, chili",20 illness 0 Hospitalizations 0 Deaths 
+358,Summer,"rice dishes, stew, chili, rice",10 illness 0 Hospitalizations 0 Deaths 
+359,Spring,"chile relleno, rice, beans",8 illness 0 Hospitalizations 0 Deaths 
+360,Winter,"chile relleno, pasta salad, eggs",28 illness 0 Hospitalizations 0 Deaths 
+361,Spring,"beans, vine, stalk eg. tomato",16 illness 0 Hospitalizations 0 Deaths 
+362,Winter,"lasagna, beef, eggs, egg",20 illness 0 Hospitalizations 0 Deaths 
+363,Spring,"lamb, beef, steak dish",42 illness 0 Hospitalizations 0 Deaths 
+364,Winter,"chile relleno, rice, yellow, egg",62 illness 12 Hospitalizations 0 Deaths 
+365,Spring,"beef, beans, legume",476 illness 12 Hospitalizations 0 Deaths 
+366,Winter,"fish, french fries, hushpuppy, water, fin fish, sauces, dressings",56 illness 6 Hospitalizations 0 Deaths 
+367,Autumn,"gravy, roast beef, mushrooms, sauces, dressings",122 illness 0 Hospitalizations 0 Deaths 
+368,Summer,"chicken, buffalo wings, lettuce",104 illness 0 Hospitalizations 0 Deaths 
+369,Summer,"potato salad, pasta, based salads",42 illness 0 Hospitalizations 0 Deaths 
+370,Winter,"mixed vegetables, pie, pumpkin, waldorf salad, fruit",62 illness 2 Hospitalizations 0 Deaths 
+371,Autumn,"seafood salad, crustacean, leafy green, shellfish",8 illness 0 Hospitalizations 0 Deaths 
+372,Summer,"wine, mussels, steamed, alcohol, shellfish",6 illness 0 Hospitalizations 0 Deaths 
+373,Spring,"relish, oil, spices",200 illness 0 Hospitalizations 0 Deaths 
+374,Winter,"tomato, lettuce, vine, stalk eg. tomato, leafy green",6 illness 0 Hospitalizations 0 Deaths 
+375,Autumn,"sandwich, turkey, specialty, roast beef",86 illness 2 Hospitalizations 0 Deaths 
+376,Spring,"butter, bagels, iceberg lettuce",260 illness 0 Hospitalizations 0 Deaths 
+377,Autumn,"taco, fish, egg, based sauce",24 illness 0 Hospitalizations 0 Deaths 
+378,Spring,"fajita, chicken, guacamole, beans",244 illness 0 Hospitalizations 0 Deaths 
+379,Autumn,"gravy, chicken, stuffing, egg",52 illness 38 Hospitalizations 0 Deaths 
+380,Autumn,"salad, vine, stalk eg. tomato, sauces, dressings",6 illness 0 Hospitalizations 0 Deaths 
+381,Summer,"potato, baked, chef salad, cheese, pork, turkey",16 illness 8 Hospitalizations 0 Deaths 
+382,Summer,"macaroni, cheese, fish, multiple foods",62 illness 0 Hospitalizations 0 Deaths 
+383,Spring,"ground beef, hamburger, gelatin, multiple foods",234 illness 2 Hospitalizations 0 Deaths 
+384,Winter&Summer,"cake, frosting, icing",41 illness 0 Hospitalizations 0 Deaths 
+385,Summer,"beef, mushrooms, vegetables",8 illness 0 Hospitalizations 0 Deaths 
+386,Summer,"macaroni salad, chicken, rice, ham",112 illness 6 Hospitalizations 0 Deaths 
+387,Winter&Autumn&Summer,"tomato, vine, stalk eg. tomato",138 illness 0 Hospitalizations 0 Deaths 
+388,Winter,"roast beef, turkey, stuffing, gravy, beef, sauces, dressings",108 illness 0 Hospitalizations 0 Deaths 
+389,Autumn,"mixed fruit, lettuce, based salads",86 illness 0 Hospitalizations 0 Deaths 
+390,Summer,"water, lettuce, based salads, ice",200 illness 0 Hospitalizations 0 Deaths 
+391,Spring,"home canned pepper, vine, stalk eg. tomato",6 illness 6 Hospitalizations 2 Deaths 
+392,Spring,"salad, chicken, bread",4 illness 0 Hospitalizations 0 Deaths 
+393,Winter,"vegetables, cheese, dips",32 illness 0 Hospitalizations 0 Deaths 
+394,Spring,"ground beef, peppers, bell, onion, rice",10 illness 0 Hospitalizations 0 Deaths 
+395,Autumn,"dips, vegetable dip, cherry tomato",68 illness 0 Hospitalizations 0 Deaths 
+396,Autumn,"egg, containing food, multiple foods",32 illness 2 Hospitalizations 0 Deaths 
+397,Summer,"sandwich, turkey, cantaloupe, fruit",66 illness 0 Hospitalizations 0 Deaths 
+398,Winter,"cake, brownie, dessert",34 illness 0 Hospitalizations 0 Deaths 
+399,Winter,"chicken, nuggets, fingers, carrots, french fries",42 illness 0 Hospitalizations 0 Deaths 
+400,Winter,"vegetable dip, mixed fruit, fruit",88 illness 0 Hospitalizations 0 Deaths 
+401,Winter,"vegetable dip, deli tray, celery",48 illness 0 Hospitalizations 0 Deaths 
+402,Spring,"orange juice, unpasteurized, fruit",176 illness 0 Hospitalizations 0 Deaths 
+403,Winter,"pasta salad, potato salad, vegetable, based salads",666 illness 6 Hospitalizations 0 Deaths 
+404,Winter,"salsa, burrito, beef",4 illness 0 Hospitalizations 0 Deaths 
+405,Autumn,"fish, coleslaw, multiple foods",6 illness 0 Hospitalizations 0 Deaths 
+406,Autumn,"pasta, lettuce, based salads",230 illness 0 Hospitalizations 0 Deaths 
+407,Autumn,"chicken, shrimp, multiple foods, egg rolls",4 illness 0 Hospitalizations 0 Deaths 
+408,Summer,"croissants, potato, sausage, pork",4 illness 0 Hospitalizations 0 Deaths 
+409,Spring,"macaroni, cheese, fish, shrimp",4 illness 0 Hospitalizations 0 Deaths 
+410,Spring,"fajita, chicken, leafy green",8 illness 0 Hospitalizations 0 Deaths 
+411,Spring,"burrito, enchilada, quesadilla",4 illness 0 Hospitalizations 0 Deaths 
+412,Spring,"salad, salad dressing, leafy green, sauces, dressings",150 illness 4 Hospitalizations 0 Deaths 
+413,Spring,"potato, mashed, cake",12 illness 0 Hospitalizations 0 Deaths 
+414,Winter,"beef, kabobs, lamb",4 illness 0 Hospitalizations 0 Deaths 
+415,Winter,"salmon, lettuce, based salads",4 illness 0 Hospitalizations 0 Deaths 
+416,Winter,"soda, sandwich, corned beef, pickles",4 illness 0 Hospitalizations 0 Deaths 
+417,Autumn,"chicken, buffalo wings, sauces, dressings",10 illness 0 Hospitalizations 0 Deaths 
+418,Spring,"beef, steak dish, taco",4 illness 0 Hospitalizations 0 Deaths 
+419,Spring,"fried rice, chicken, buffalo wings",8 illness 0 Hospitalizations 0 Deaths 
+420,Spring,"pizza, vegetable, chicken, buffalo wings",6 illness 0 Hospitalizations 0 Deaths 
+421,Winter,"peppers, jalapeno, potato, baked",8 illness 0 Hospitalizations 0 Deaths 
+422,Spring,"clams, fried, steamed",10 illness 0 Hospitalizations 0 Deaths 
+423,Spring,"ground beef, cheeseburger, french fries, lettuce, leafy green",6 illness 0 Hospitalizations 0 Deaths 
+424,Summer,"taco, refried beans, legume",20 illness 0 Hospitalizations 0 Deaths 
+425,Autumn,"water, ravioli, ground beef, meatballs",270 illness 2 Hospitalizations 0 Deaths 
+426,Autumn,"chicken, roasted, salad",50 illness 0 Hospitalizations 0 Deaths 
+427,Summer,"burrito, beef, taco, chicken",80 illness 4 Hospitalizations 0 Deaths 
+428,Spring,"iceberg lettuce, coleslaw, romaine lettuce, leafy green",18 illness 2 Hospitalizations 0 Deaths 
+429,Spring,"ham, crab, ranch dressing, vine, stalk eg. tomato, cream filling",110 illness 4 Hospitalizations 0 Deaths 
+430,Winter,"green beans, carrots, potato",54 illness 0 Hospitalizations 0 Deaths 
+431,Spring,"tuna, shrimp, baked",4 illness 0 Hospitalizations 0 Deaths 
+432,Autumn,"pumpkin, vine, stalk eg. tomato",10 illness 0 Hospitalizations 0 Deaths 
+433,Autumn,"sandwich, vegetable, meat",80 illness 0 Hospitalizations 0 Deaths 
+434,Summer&Spring,"bread, cornbread, chicken, ham",106 illness 16 Hospitalizations 0 Deaths 
+435,Summer,"mashed potato, gravy, chicken, fried",12 illness 0 Hospitalizations 0 Deaths 
+436,Spring,"eggs, pork, chops, ham",16 illness 12 Hospitalizations 0 Deaths 
+437,Winter,"mashed potato, gravy, pie, pecan",30 illness 6 Hospitalizations 0 Deaths 
+438,Winter,"spaghetti, ground beef, meatballs, beef",4 illness 0 Hospitalizations 0 Deaths 
+439,Autumn,"pork, chops, potato, mashed",6 illness 2 Hospitalizations 0 Deaths 
+440,Autumn,"soup, wonton, chicken, ribs, beef",8 illness 0 Hospitalizations 0 Deaths 
+441,Autumn,"food, soup, wonton",4 illness 0 Hospitalizations 0 Deaths 
+442,Autumn,"soup, tortellini, salad",4 illness 0 Hospitalizations 0 Deaths 
+443,Autumn,"sandwich, beef, bread, cheese",6 illness 0 Hospitalizations 0 Deaths 
+444,Autumn,"bread, garlic bread, cake",16 illness 2 Hospitalizations 0 Deaths 
+445,Autumn,"chicken, shrimp, sushi",6 illness 0 Hospitalizations 0 Deaths 
+446,Autumn,"refried beans, legume, spices",4 illness 0 Hospitalizations 0 Deaths 
+447,Autumn,"pancakes, tater tots, root (eg. potato)",4 illness 0 Hospitalizations 0 Deaths 
+448,Autumn,"blue cheese dressing, cheese, milk, sauces, dressings",4 illness 0 Hospitalizations 0 Deaths 
+449,Summer,"multiple cheeses, punch, chicken salad",70 illness 0 Hospitalizations 0 Deaths 
+450,Summer,"rice, chicken, gelatin",8 illness 0 Hospitalizations 0 Deaths 
+451,Summer,"sauces, soup, wonton",12 illness 0 Hospitalizations 0 Deaths 
+452,Summer,"rice, refried beans, legume, spices",6 illness 0 Hospitalizations 0 Deaths 
+453,Summer,"taco, beef, quesadilla, chicken, chips, salsa, legume",6 illness 0 Hospitalizations 0 Deaths 
+454,Summer,"pineapple juice, rice, salmon, coconut milk",8 illness 0 Hospitalizations 0 Deaths 
+455,Summer,"seabass, fish, grouper, fin fish",4 illness 0 Hospitalizations 0 Deaths 
+456,Summer&Winter&Winter,"cake, ice cream, commercial",33 illness 0 Hospitalizations 0 Deaths 
+457,Summer,"ground beef, hamburger, chicken",14 illness 0 Hospitalizations 0 Deaths 
+458,Summer,"chicken salad, tuna salad, ice, chicken",34 illness 0 Hospitalizations 0 Deaths 
+459,Summer,"refried beans, legume, root (eg. potato)",4 illness 0 Hospitalizations 0 Deaths 
+460,Summer,"red beans, rice, beef",4 illness 2 Hospitalizations 0 Deaths 
+461,Summer,"fried rice, beef, broccoli",4 illness 0 Hospitalizations 0 Deaths 
+462,Summer,"water, beans, coleslaw",14 illness 0 Hospitalizations 0 Deaths 
+463,Summer&Autumn,"roast beef, beef, sauces, dressings",7 illness 0 Hospitalizations 0 Deaths 
+464,Spring,"mozarella, sauces, pasta, soda, garlic rolls",6 illness 0 Hospitalizations 0 Deaths 
+465,Spring,"coleslaw, leafy green, root (eg. potato), sauces, dressings",4 illness 0 Hospitalizations 0 Deaths 
+466,Spring,"omelette, salmon, shrimp",4 illness 2 Hospitalizations 0 Deaths 
+467,Spring,"pizza, taco, beef",4 illness 0 Hospitalizations 0 Deaths 
+468,Spring,"pizza, chicken, buffalo wings",10 illness 0 Hospitalizations 0 Deaths 
+469,Spring,"orange juice, fruit, water",4 illness 0 Hospitalizations 0 Deaths 
+470,Spring,"soup, clam chowder, milk, root (eg. potato), shellfish",4 illness 0 Hospitalizations 0 Deaths 
+471,Spring,"rice, vegetable tempura, yakitori, chicken, chicken tempura",12 illness 0 Hospitalizations 0 Deaths 
+472,Spring,"soup, potato, potato salad, root (eg. potato)",4 illness 0 Hospitalizations 0 Deaths 
+473,Spring,"chicken, pie, merengue",4 illness 0 Hospitalizations 0 Deaths 
+474,Spring,"spinach salad, ice cream, caesar salad, leafy green",10 illness 0 Hospitalizations 0 Deaths 
+475,Spring,"eggs, steak, ham",6 illness 0 Hospitalizations 0 Deaths 
+476,Spring,"orange, ground beef, hamburger, vegetables",20 illness 2 Hospitalizations 0 Deaths 
+477,Spring,"shrimp, house salad, crustacean, sauces, dressings",6 illness 0 Hospitalizations 0 Deaths 
+478,Spring,"ox, red beans, rice",6 illness 0 Hospitalizations 0 Deaths 
+479,Spring,"nachos, chicken, buffalo wings, cheese",4 illness 0 Hospitalizations 0 Deaths 
+480,Spring,"pizza, steak, cheese, beef",24 illness 0 Hospitalizations 0 Deaths 
+481,Spring,"cake, chocolate, baked goods",4 illness 0 Hospitalizations 0 Deaths 
+482,Spring,"beef, chicken, potato, meatloaf",6 illness 0 Hospitalizations 0 Deaths 
+483,Spring,"chili sauce, burrito, beef",22 illness 0 Hospitalizations 0 Deaths 
+484,Winter,"pork, roasted, ribs, chicken",4 illness 0 Hospitalizations 0 Deaths 
+485,Winter,"cheese, eggs, pork, bacon",4 illness 0 Hospitalizations 0 Deaths 
+486,Winter,"soup, pork, based",18 illness 0 Hospitalizations 0 Deaths 
+487,Winter,"ice, ham, cake",36 illness 0 Hospitalizations 0 Deaths 
+488,Winter,"soup, chicken, beef",8 illness 0 Hospitalizations 0 Deaths 
+489,Winter,"pizza, meat, taco, beef",4 illness 0 Hospitalizations 0 Deaths 
+490,Winter&Spring&Spring,"rice, white, chicken, teriyaki",18 illness 0 Hospitalizations 0 Deaths 
+491,Winter,"soup, bean, vine, stalk eg. tomato, spices",12 illness 0 Hospitalizations 0 Deaths 
+492,Winter,"ground beef, hamburger, hot dog",12 illness 4 Hospitalizations 0 Deaths 
+493,Winter,"seafood, lettuce, based salads",24 illness 0 Hospitalizations 0 Deaths 
+494,Spring,"sandwich, tuna salad, chicken salad",216 illness 0 Hospitalizations 0 Deaths 
+495,Spring,"sandwich, roast beef, turkey",16 illness 0 Hospitalizations 0 Deaths 
+496,Autumn,"peppers, chili, refried beans",30 illness 0 Hospitalizations 0 Deaths 
+497,Summer,"burrito, vine, stalk eg. tomato",84 illness 0 Hospitalizations 0 Deaths 
+498,Summer,"sandwich, turkey, roast beef",16 illness 0 Hospitalizations 0 Deaths 
+499,Summer,"spaghetti, ground beef, hamburger, taco or nacho salad",14 illness 10 Hospitalizations 0 Deaths 
+500,Winter,"beef, steak dish, potato, baked",34 illness 0 Hospitalizations 0 Deaths 
+501,Winter,"turkey, gravy, ham",540 illness 0 Hospitalizations 0 Deaths 
+502,Autumn,"grapes, red, fruit",28 illness 16 Hospitalizations 0 Deaths 
+503,Autumn,"rice, beef, bbq, beans",60 illness 4 Hospitalizations 0 Deaths 
+504,Summer,"roast beef, salad bar, blue cheese dressing, beef, cheese, sauces, dressings",4 illness 0 Hospitalizations 0 Deaths 
+505,Summer,"octopus, shrimp cocktail, vegetables",4 illness 0 Hospitalizations 0 Deaths 
+506,Summer&Winter,"steak, prime rib, potato, mashed",29 illness 0 Hospitalizations 0 Deaths 
+507,Spring,"carne asada, pork, beef",34 illness 12 Hospitalizations 0 Deaths 
+508,Spring,"bread, banana, strawberries, muffin",200 illness 0 Hospitalizations 0 Deaths 
+509,Spring,"ground beef, tortilla, cheese, lettuce",38 illness 0 Hospitalizations 0 Deaths 
+510,Summer,"chicken, bbq, pork, beans, baked, pie, chocolate",80 illness 2 Hospitalizations 0 Deaths 
+511,Spring,"pork, bbq, sauces, dressings",68 illness 0 Hospitalizations 0 Deaths 
+512,Winter,"macaroni, cheese, turkey",54 illness 0 Hospitalizations 0 Deaths 
+513,Winter,"lamb, chicken, curry",54 illness 0 Hospitalizations 0 Deaths 
+514,Winter,"turkey, roast beef, ham",28 illness 2 Hospitalizations 0 Deaths 
+515,Winter,"butter, cheese, crackers, bread",50 illness 0 Hospitalizations 0 Deaths 
+516,Autumn,"potato, baked, corn, cake",12 illness 0 Hospitalizations 0 Deaths 
+517,Autumn,"pork, rice, beans",42 illness 10 Hospitalizations 0 Deaths 
+518,Autumn,"shrimp, fish, baked flounder",6 illness 0 Hospitalizations 0 Deaths 
+519,Autumn,"rice, pork, beans",32 illness 2 Hospitalizations 0 Deaths 
+520,Autumn,"vegetable dip, sandwich, mixed vegetables",130 illness 0 Hospitalizations 0 Deaths 
+521,Autumn,"chicken, potatoes, cheddar",58 illness 0 Hospitalizations 0 Deaths 
+522,Autumn,"salsa, macaroni salad, chicken",26 illness 0 Hospitalizations 0 Deaths 
+523,Autumn,"chicken salad, tuna salad, lettuce, carrots",4 illness 2 Hospitalizations 0 Deaths 
+524,Summer,"ground beef, hamburger, cheeseburger, french fries",10 illness 0 Hospitalizations 0 Deaths 
+525,Summer,"gravy, pineapple, potato",256 illness 4 Hospitalizations 0 Deaths 
+526,Summer,"stew, chili, steak, sirloin",920 illness 0 Hospitalizations 0 Deaths 
+527,Summer,"multiple cheeses, cheese, pasteurized",26 illness 0 Hospitalizations 0 Deaths 
+528,Summer,"sandwich, potato, macaroni salad",16 illness 0 Hospitalizations 0 Deaths 
+529,Summer,"rice, ground beef, sausage",20 illness 0 Hospitalizations 0 Deaths 
+530,Summer,"eggs, ham, cheese, potato",8 illness 0 Hospitalizations 0 Deaths 
+531,Summer,"fruit, cake, brownie, cookies",48 illness 0 Hospitalizations 0 Deaths 
+532,Summer,"sandwich, ham, turkey",28 illness 0 Hospitalizations 0 Deaths 
+533,Summer,"turkey, pasta, ham",54 illness 4 Hospitalizations 0 Deaths 
+534,Summer,"chicken, buffalo wings, sandwich, hoagie",38 illness 0 Hospitalizations 0 Deaths 
+535,Spring,"melon, watermelon, pineapple",46 illness 2 Hospitalizations 0 Deaths 
+536,Spring,"lettuce, based salads, potato, baked",50 illness 0 Hospitalizations 0 Deaths 
+537,Spring,"vegetables, chicken, beef",154 illness 0 Hospitalizations 0 Deaths 
+538,Spring,"cake, cheese, pasta",78 illness 0 Hospitalizations 0 Deaths 
+539,Spring,"ribs, pork, beans, baked",4 illness 0 Hospitalizations 0 Deaths 
+540,Spring,"chicken, beans, rice",100 illness 0 Hospitalizations 0 Deaths 
+541,Spring,"ground beef, meatballs, turkey, ham",36 illness 0 Hospitalizations 0 Deaths 
+542,Spring,"salad, butter, water",42 illness 0 Hospitalizations 0 Deaths 
+543,Spring,"fried rice, soup, egg drop, egg rolls",44 illness 4 Hospitalizations 0 Deaths 
+544,Spring,"fruit, sandwich, turkey",36 illness 0 Hospitalizations 0 Deaths 
+545,Spring,"rice, chicken, salad",4 illness 2 Hospitalizations 0 Deaths 
+546,Spring,"chicken, rice, beans",96 illness 0 Hospitalizations 0 Deaths 
+547,Spring,"cake, water, potato",8 illness 0 Hospitalizations 0 Deaths 
+548,Winter,"seafood soup, stew, butter, soda",40 illness 0 Hospitalizations 0 Deaths 
+549,Winter,"soda, butter, seafood",22 illness 0 Hospitalizations 0 Deaths 
+550,Winter,"soup, seafood chowder, butter, soda",40 illness 0 Hospitalizations 0 Deaths 
+551,Winter,"salmon, raw, tuna",6 illness 0 Hospitalizations 0 Deaths 
+552,Winter&Summer,"cake, tiramisu, eggs",32 illness 0 Hospitalizations 0 Deaths 
+553,Winter,"soup, stew, chili, steak",6 illness 6 Hospitalizations 0 Deaths 
+554,Winter,"lettuce, salsa, potato chips",64 illness 0 Hospitalizations 0 Deaths 
+555,Winter,"stuffing, sandwich, turkey",8 illness 6 Hospitalizations 0 Deaths 
+556,Spring,"chicken, stuffing, green beans, potato, mashed",24 illness 0 Hospitalizations 0 Deaths 
+557,Summer,"ground beef, meatballs, quesadilla, chicken",54 illness 2 Hospitalizations 0 Deaths 
+558,Spring,"steak, sirloin, potato, mashed",594 illness 0 Hospitalizations 0 Deaths 
+559,Spring,"sandwich, fajita, vegetable tray, lettuce, based salads, leafy green",128 illness 0 Hospitalizations 0 Deaths 
+560,Summer,"stir, fry, fried rice",16 illness 0 Hospitalizations 0 Deaths 
+561,Summer,"ice, steak, salad dressing",272 illness 12 Hospitalizations 0 Deaths 
+562,Spring,"chicken, green beans, egg",62 illness 0 Hospitalizations 0 Deaths 
+563,Spring,"chicken, bbq, fried",20 illness 0 Hospitalizations 0 Deaths 
+564,Spring,"sandwich, fish, fin fish",6 illness 0 Hospitalizations 0 Deaths 
+565,Summer,"sandwich, chicken parmesan, beef",6 illness 0 Hospitalizations 0 Deaths 
+566,Summer,"goat cheese, chevre, tomato, pastry",40 illness 0 Hospitalizations 0 Deaths 
+567,Winter,"shrimp scampi, potato, mashed, caesar salad",8 illness 0 Hospitalizations 0 Deaths 
+568,Spring,"fried rice, chicken, crab dishes",4 illness 0 Hospitalizations 0 Deaths 
+569,Spring,"lettuce, based salads, bread",34 illness 0 Hospitalizations 0 Deaths 
+570,Winter,"egg, in, muffin, style sandwich, biscuit, sausage, pork",24 illness 8 Hospitalizations 0 Deaths 
+571,Spring,"biscuit, crab, steamed, shrimp",14 illness 0 Hospitalizations 0 Deaths 
+572,Spring,"burrito, chicken, quesadilla",22 illness 2 Hospitalizations 0 Deaths 
+573,Summer&Winter,"sandwich, bacon, lettuce, tomato",8 illness 0 Hospitalizations 0 Deaths 
+574,Summer,"sandwich, chicken, pork, coleslaw",14 illness 0 Hospitalizations 0 Deaths 
+575,Summer,"carrots, celery, lettuce",8 illness 0 Hospitalizations 0 Deaths 
+576,Summer,"beef, fried onions, onion rings",4 illness 2 Hospitalizations 0 Deaths 
+577,Winter,"tartar sauce, hot dog, multiple foods",60 illness 0 Hospitalizations 0 Deaths 
+578,Autumn,"shell eggs, boiled hard, macaroni salad, tuna salad",66 illness 0 Hospitalizations 0 Deaths 
+579,Autumn,"sandwich, egg, poultry, fruit",92 illness 0 Hospitalizations 0 Deaths 
+580,Summer,"wonton, rice, shrimp",4 illness 0 Hospitalizations 0 Deaths 
+581,Winter,"gravy, beef, roast beef, sauces, dressings",44 illness 0 Hospitalizations 0 Deaths 
+582,Winter,"american cheese, pasteurized, ground beef, hamburger",8 illness 0 Hospitalizations 0 Deaths 
+583,Winter,"cheese, tomato, lettuce",22 illness 0 Hospitalizations 0 Deaths 
+584,Winter,"salsa, beef, beans",16 illness 0 Hospitalizations 0 Deaths 
+585,Summer,"milkshake, ground beef, hamburger, french fries",4 illness 0 Hospitalizations 0 Deaths 
+586,Spring,"rice, carrots, fish, white",6 illness 0 Hospitalizations 0 Deaths 
+587,Winter,"sandwich, roast beef, tuna",4 illness 0 Hospitalizations 0 Deaths 
+588,Autumn&Winter,"turkey, gravy, roasted",218 illness 0 Hospitalizations 0 Deaths 
+589,Winter,"mozarella, ground beef, cheeseburger",4 illness 0 Hospitalizations 0 Deaths 
+590,Winter,"burrito, chicken, refried beans",196 illness 0 Hospitalizations 0 Deaths 
+591,Winter,"strawberries, melon, pineapple",30 illness 0 Hospitalizations 0 Deaths 
+592,Autumn,"sandwich, roast beef, beef",24 illness 4 Hospitalizations 0 Deaths 
+593,Winter,"carrots, caesar salad, green salad",14 illness 16 Hospitalizations 0 Deaths 
+594,Autumn,"tomato, stuffed, fish, white",8 illness 0 Hospitalizations 0 Deaths 
+595,Winter,"oysters, raw, lettuce, based salads",76 illness 0 Hospitalizations 0 Deaths 
+596,Winter,"rice, spanish, refried beans",46 illness 0 Hospitalizations 0 Deaths 
+597,Autumn,"taco, beef, doughnuts",108 illness 0 Hospitalizations 0 Deaths 
+598,Summer,"salsa, chips, sopapilla",10 illness 0 Hospitalizations 0 Deaths 
+599,Winter,"burrito, beef, taco",6 illness 0 Hospitalizations 0 Deaths 
+600,Summer,"enchilada, beef, chicken",124 illness 8 Hospitalizations 0 Deaths 
+601,Winter,"beef, pork, broccoli",4 illness 2 Hospitalizations 0 Deaths 
+602,Autumn,"noodles, fried, pork",10 illness 2 Hospitalizations 0 Deaths 
+603,Winter,"burrito, chicken, legume, rice",4 illness 0 Hospitalizations 0 Deaths 
+604,Winter,"scallops, baked, shrimp, steamed",4 illness 0 Hospitalizations 0 Deaths 
+605,Winter&Summer,"soup, vegetable, based",56 illness 6 Hospitalizations 0 Deaths 
+606,Spring,"ground beef, hamburger, sandwich, chicken",4 illness 0 Hospitalizations 0 Deaths 
+607,Winter,"rice, white, beef",16 illness 0 Hospitalizations 0 Deaths 
+608,Spring,"rice, chicken, baked, black beans",4 illness 0 Hospitalizations 0 Deaths 
+609,Spring&Winter,"chicken, nuggets, fingers, french fries",53 illness 0 Hospitalizations 0 Deaths 
+610,Spring,"sandwich, chicken, pork, roasted",6 illness 0 Hospitalizations 0 Deaths 
+611,Spring,"cheese, pasteurized, honeydew melon, potato, fried, melon, root (eg. potato)",16 illness 0 Hospitalizations 0 Deaths 
+612,Spring&Autumn&Summer,"beef, bbq, pork",12 illness 0 Hospitalizations 0 Deaths 
+613,Spring,"sandwich, specialty, leafy green, vine, stalk eg. tomato",54 illness 0 Hospitalizations 0 Deaths 
+614,Spring,"mixed vegetables, ranch dressing, root (eg. potato), sauces, dressings",6 illness 0 Hospitalizations 0 Deaths 
+615,Spring,"egg salad, egg salad sandwich, sandwich, vegetable, turkey club",10 illness 0 Hospitalizations 0 Deaths 
+616,Winter,"cheese, crackers, grapes, baked goods, fruit",90 illness 0 Hospitalizations 0 Deaths 
+617,Summer,"chicken, nuggets, fingers, coleslaw",4 illness 0 Hospitalizations 0 Deaths 
+618,Winter,"chicken, tetrazini, caesar salad, green salad, leafy green",42 illness 0 Hospitalizations 0 Deaths 
+619,Winter,"green pea salad, vegetable, based salads",42 illness 0 Hospitalizations 0 Deaths 
+620,Spring,"gravy, beef, potato, mashed",478 illness 44 Hospitalizations 0 Deaths 
+621,Spring,"salsa, rice, refried beans",12 illness 0 Hospitalizations 0 Deaths 
+622,Summer,"feta cheese, oil, cucumber",12 illness 0 Hospitalizations 0 Deaths 
+623,Summer,"chicken, buffalo wings, shrimp, steamed",4 illness 0 Hospitalizations 0 Deaths 
+624,Summer,"tamale, rice, spanish, enchilada, chicken",22 illness 2 Hospitalizations 0 Deaths 
+625,Spring,"tuna salad, pasta salad, green salad, root (eg. potato)",272 illness 2 Hospitalizations 0 Deaths 
+626,Summer,"shell eggs, scrambled hard, sausage, pork",4 illness 0 Hospitalizations 0 Deaths 
+627,Summer,"sandwich, ham, cheese, roast beef",6 illness 0 Hospitalizations 0 Deaths 
+628,Autumn,"squash casserole, gravy, beef, roast beef",52 illness 4 Hospitalizations 0 Deaths 
+629,Summer,"fried rice, chicken, sweet, sour",8 illness 0 Hospitalizations 0 Deaths 
+630,Summer,"fried rice, mussels, steamed",12 illness 0 Hospitalizations 0 Deaths 
+631,Spring,"parmesan cheese, chicken, cheese, sauces, dressings",18 illness 0 Hospitalizations 0 Deaths 
+632,Summer,"seafood pasta, spaghetti, deli tray",52 illness 6 Hospitalizations 0 Deaths 
+633,Winter,"sandwich, egg, poultry, chicken",8 illness 0 Hospitalizations 0 Deaths 
+634,Summer,"fried rice, chicken, bbq",6 illness 0 Hospitalizations 0 Deaths 
+635,Autumn,"meat casserole, refried beans, potato",22 illness 0 Hospitalizations 0 Deaths 
+636,Summer,"rice, white, fried rice",19 illness 0 Hospitalizations 0 Deaths 
+637,Autumn,"beef, bbq, chicken, fried",4 illness 0 Hospitalizations 0 Deaths 
+638,Winter,"oysters, raw, sushi",24 illness 0 Hospitalizations 0 Deaths 
+639,Summer,"black beans, rice, red meat",14 illness 0 Hospitalizations 0 Deaths 
+640,Autumn,"whole milk, pasteurized, potato, mashed",104 illness 0 Hospitalizations 0 Deaths 
+641,Summer,"noodles, chicken, fried, fish",14 illness 0 Hospitalizations 0 Deaths 
+642,Summer,"burrito, chicken, enchilada, refried beans",4 illness 0 Hospitalizations 0 Deaths 
+643,Summer,"salsa, rice, white, black beans",4 illness 0 Hospitalizations 0 Deaths 
+644,Autumn,"tap water, sandwich, deli, carrots",84 illness 0 Hospitalizations 0 Deaths 
+645,Autumn&Winter,"rice, yellow, pork, roasted",7 illness 0 Hospitalizations 0 Deaths 
+646,Spring,"turkey, pork, bacon",4 illness 0 Hospitalizations 0 Deaths 
+647,Autumn,"steak, shrimp, steamed",4 illness 0 Hospitalizations 0 Deaths 
+648,Winter,"cantaloupe, honeydew melon, pineapple",72 illness 0 Hospitalizations 0 Deaths 
+649,Spring&Autumn&Summer,"fish, ulua, fin fish",14 illness 0 Hospitalizations 0 Deaths 
+650,Spring,"meat sauce, noodles, ground beef",48 illness 2 Hospitalizations 0 Deaths 
+651,Summer,"lettuce, based salads, bread, garlic bread",192 illness 0 Hospitalizations 0 Deaths 
+652,Autumn,"turkey, gravy, bread, cornbread dressing, coleslaw",24 illness 0 Hospitalizations 0 Deaths 
+653,Autumn&Summer,"sandwich, egg, poultry",25 illness 0 Hospitalizations 0 Deaths 
+654,Autumn,"fruit punch, bread, lettuce, based salads",80 illness 2 Hospitalizations 0 Deaths 
+655,Autumn,"turkey, green beans, corn",46 illness 2 Hospitalizations 0 Deaths 
+656,Summer,"sandwich, vegetable, deli",16 illness 0 Hospitalizations 0 Deaths 
+657,Summer,"fried rice, chicken, baked",8 illness 0 Hospitalizations 0 Deaths 
+658,Autumn,"gravy, beef, roast beef, potato, mashed",1900 illness 2 Hospitalizations 0 Deaths 
+659,Autumn,"chicken, refried beans, rice, spanish",72 illness 0 Hospitalizations 0 Deaths 
+660,Winter,"chicken salad, sandwich, chicken",6 illness 0 Hospitalizations 0 Deaths 
+661,Autumn,"sausage, mettwurst, potato salad, lettuce, based salads",56 illness 0 Hospitalizations 0 Deaths 
+662,Spring,"macaroni, cheese, ground beef, peppers, green",186 illness 36 Hospitalizations 2 Deaths 
+663,Winter,"egg salad, egg salad sandwich, coleslaw, tuna salad",104 illness 0 Hospitalizations 0 Deaths 
+664,Summer,"pie, merengue, eggs",24 illness 6 Hospitalizations 0 Deaths 
+665,Spring,"stew, chili, sausage, hot dog, sauces, dressings",62 illness 0 Hospitalizations 0 Deaths 
+666,Winter,"vegetable dip, pineapple, caesar salad",42 illness 2 Hospitalizations 0 Deaths 
+667,Winter,"melon, pineapple, kiwi",10 illness 0 Hospitalizations 0 Deaths 
+668,Autumn,"macaroni, cheese, chicken, fried, biscuit",6 illness 0 Hospitalizations 0 Deaths 
+669,Spring,"whole milk, unpasteurized, goat milk, milk",22 illness 6 Hospitalizations 0 Deaths 
+670,Summer,"beef, bbq, pork, ham",102 illness 10 Hospitalizations 0 Deaths 
+671,Autumn,"cheese, crackers, venison, jerky, rice crispy treat",38 illness 0 Hospitalizations 0 Deaths 
+672,Summer,"stew, chili, ground beef, hamburger, sauces, dressings",8 illness 0 Hospitalizations 0 Deaths 
+673,Summer,"oysters, raw, seafood dish, shellfish",8 illness 0 Hospitalizations 0 Deaths 
+674,Spring,"punch, sandwich, salad, water based (eg. drink mix)",184 illness 0 Hospitalizations 0 Deaths 
+675,Spring,"eggs benedict, hollandaise sauce, egg, containing food",84 illness 10 Hospitalizations 0 Deaths 
+676,Winter,"roast beef, seafood dish, beef",156 illness 0 Hospitalizations 0 Deaths 
+677,Autumn,"chicken, grilled, vegetable, based salads, speciality salads",102 illness 0 Hospitalizations 0 Deaths 
+678,Spring,"turkey, roasted, pork, bbq",114 illness 0 Hospitalizations 0 Deaths 
+679,Winter,"butter, vegetable dip, bread",18 illness 0 Hospitalizations 0 Deaths 
+680,Winter,"gravy, potato, mashed",42 illness 0 Hospitalizations 0 Deaths 
+681,Spring,"fruit, potato salad, bean salad",96 illness 0 Hospitalizations 0 Deaths 
+682,Spring,"soup, red meat, based",14 illness 0 Hospitalizations 0 Deaths 
+683,Autumn,"coleslaw, leafy green, sauces, dressings",16 illness 0 Hospitalizations 0 Deaths 
+684,Autumn&Summer&Spring,"taco, beef, chicken",100 illness 2 Hospitalizations 0 Deaths 
+685,Summer,"flauta, cheese, wraps, tortillas, sauces, dressings",46 illness 0 Hospitalizations 0 Deaths 
+686,Autumn,"burrito, beef, chicken, legume",32 illness 0 Hospitalizations 0 Deaths 
+687,Spring,"rice, chicken, teriyaki",402 illness 0 Hospitalizations 0 Deaths 
+688,Spring,"stew, chili, hot dog",6 illness 0 Hospitalizations 0 Deaths 
+689,Winter,"lettuce, based salads, caesar dressing, turkey",4 illness 0 Hospitalizations 0 Deaths 
+690,Summer,"watermelon, ground beef, hamburger, biscuit",52 illness 2 Hospitalizations 0 Deaths 
+691,Summer,"chicken, lettuce, based salads",6 illness 0 Hospitalizations 0 Deaths 
+692,Autumn,"turkey, roasted, sweet potato",90 illness 0 Hospitalizations 0 Deaths 
+693,Winter,"water, lettuce, based salads",164 illness 0 Hospitalizations 0 Deaths 
+694,Autumn,"pork, roasted, ham",224 illness 116 Hospitalizations 0 Deaths 
+695,Autumn,"condiment, ground beef, hamburger, chicken, baked",120 illness 0 Hospitalizations 0 Deaths 
+696,Summer,"spaghetti, green beans, beef",54 illness 12 Hospitalizations 0 Deaths 
+697,Winter,"rice, chicken, baked, lettuce, based salads",56 illness 0 Hospitalizations 0 Deaths 
+698,Winter,"roast beef, oysters, raw",6 illness 0 Hospitalizations 0 Deaths 
+699,Winter,"sandwich, deli, fruit, based salads, chicken",40 illness 2 Hospitalizations 0 Deaths 
+700,Summer,"sandwich, ham, cheese, pork",16 illness 8 Hospitalizations 0 Deaths 
+701,Spring,"pizza, meat, lettuce, based salads",16 illness 0 Hospitalizations 0 Deaths 
+702,Spring,"chicken, casserole, potato salad, fruit salad",30 illness 0 Hospitalizations 0 Deaths 
+703,Winter,"bread, garlic, oil",54 illness 0 Hospitalizations 0 Deaths 
+704,Autumn,"turkey, gravy, stuffing",106 illness 0 Hospitalizations 0 Deaths 
+705,Autumn&Winter,"rice, chicken, refried beans",29 illness 0 Hospitalizations 0 Deaths 
+706,Winter,"chicken, roasted, gravy",34 illness 0 Hospitalizations 0 Deaths 
+707,Autumn,"sandwich, turkey, beef",12 illness 0 Hospitalizations 0 Deaths 
+708,Summer,"shrimp, steamed, crab, shrimp salad",48 illness 0 Hospitalizations 0 Deaths 
+709,Autumn,"beans, baked, vine, stalk eg. tomato",14 illness 8 Hospitalizations 0 Deaths 
+710,Winter,"butter, bread, pork",16 illness 0 Hospitalizations 0 Deaths 
+711,Winter,"red salsa, water, chips, tortilla",4 illness 0 Hospitalizations 0 Deaths 
+712,Winter,"salsa, eggs, pork, bacon",68 illness 2 Hospitalizations 0 Deaths 
+713,Spring,"noodles, fried, ground beef, hamburger, pork, beef",70 illness 0 Hospitalizations 0 Deaths 
+714,Summer,"fruit, vegetable tray, pasta, based salads",70 illness 0 Hospitalizations 0 Deaths 
+715,Spring,"rice, beef, refried beans",46 illness 0 Hospitalizations 0 Deaths 
+716,Autumn,"sandwich, wrap, pasta",10 illness 2 Hospitalizations 0 Deaths 
+717,Autumn,"turkey, roasted, potato, mashed",160 illness 0 Hospitalizations 0 Deaths 
+718,Autumn,"punch, ice, ranch dressing",50 illness 0 Hospitalizations 0 Deaths 
+719,Autumn,"grapes, cantaloupe, watermelon",58 illness 0 Hospitalizations 0 Deaths 
+720,Winter,"mashed potato, gravy, roast beef, salad bar",32 illness 0 Hospitalizations 0 Deaths 
+721,Autumn&Winter,"soup, poultry, egg",10 illness 0 Hospitalizations 0 Deaths 
+722,Winter,"beef, bbq, ham",110 illness 12 Hospitalizations 0 Deaths 
+723,Autumn,"salmon, pie, apple",62 illness 0 Hospitalizations 0 Deaths 
+724,Spring,"potato salad, cake, root (eg. potato)",20 illness 0 Hospitalizations 0 Deaths 
+725,Autumn,"sandwich, deli, pasta",88 illness 2 Hospitalizations 0 Deaths 
+726,Summer,"sandwich, peanut butter, jelly, shell eggs, scrambled hard, tuna fish, egg",50 illness 0 Hospitalizations 0 Deaths 
+727,Spring,"pasta, chicken, grilled",6 illness 0 Hospitalizations 0 Deaths 
+728,Autumn,"chicken, mashed potato, gravy, vegetables",36 illness 0 Hospitalizations 0 Deaths 
+729,Spring,"ground beef, meatballs, lasagna, mixed meat, beef",6 illness 2 Hospitalizations 0 Deaths 
+730,Summer,"chicken, ham, pork",30 illness 0 Hospitalizations 0 Deaths 
+731,Autumn,"chicken, fried, ham, pork",38 illness 0 Hospitalizations 0 Deaths 
+732,Summer,"chow mein, stir, fry, beef",6 illness 0 Hospitalizations 0 Deaths 
+733,Autumn,"salad, vine, stalk eg. tomato",38 illness 0 Hospitalizations 0 Deaths 
+734,Autumn,"beef, lobster, vegetable, based salads",12 illness 0 Hospitalizations 0 Deaths 
+735,Autumn,"bearnaise sauce, roast beef, sauces, dressings, beef",34 illness 0 Hospitalizations 0 Deaths 
+736,Winter,"gravy, chicken, nuggets, fingers, coleslaw",10 illness 0 Hospitalizations 0 Deaths 
+737,Spring,"egg rolls, lo mein, chicken, fried rice",10 illness 0 Hospitalizations 0 Deaths 
+738,Summer,"chicken, nuggets, fingers, coleslaw, potato, mashed",4 illness 0 Hospitalizations 0 Deaths 
+739,Winter,"beef, chili, lettuce, based salads",4 illness 0 Hospitalizations 0 Deaths 
+740,Spring,"veggie, based pasta, steak, prime rib, beets",76 illness 0 Hospitalizations 0 Deaths 
+741,Winter,"fish, grouper, squid, calamari",6 illness 0 Hospitalizations 0 Deaths 
+742,Winter,"crawfish, crayfish, oysters, raw, shrimp, grilled",4 illness 0 Hospitalizations 0 Deaths 
+743,Winter,"enchilada, chicken, lettuce",56 illness 4 Hospitalizations 0 Deaths 
+744,Spring,"omelette, turkey, egg, battered foods",6 illness 0 Hospitalizations 0 Deaths 
+745,Spring,"eggs, omelette, eggs benedict, egg",14 illness 0 Hospitalizations 0 Deaths 
+746,Winter,"sauces, oysters, raw, dressings, shellfish",110 illness 0 Hospitalizations 0 Deaths 
+747,Spring,"roast beef, pudding, bread, cake, tiramisu",24 illness 2 Hospitalizations 0 Deaths 
+748,Spring,"tortellini, cheese, cream sauce",64 illness 0 Hospitalizations 0 Deaths 
+749,Spring,"bbq, green beans, potato salad, pork",14 illness 4 Hospitalizations 0 Deaths 
+750,Winter,"black beans, rice, beef",50 illness 0 Hospitalizations 0 Deaths 
+751,Summer,"ice cream, commercial, chicken, nuggets, fingers",16 illness 0 Hospitalizations 0 Deaths 
+752,Spring,"pork, smoked, bbq",4 illness 0 Hospitalizations 0 Deaths 
+753,Summer,"fajita, chicken, taco",457 illness 0 Hospitalizations 0 Deaths 
+754,Summer,"fish, grouper, coleslaw",4 illness 0 Hospitalizations 0 Deaths 
+755,Spring,"gravy, roast beef, pork, roasted, sauces, dressings, beef",44 illness 0 Hospitalizations 0 Deaths 
+756,Summer,"cheese dish, omelette, ham",10 illness 4 Hospitalizations 0 Deaths 
+757,Summer,"crab, steamed, shrimp, fried",18 illness 0 Hospitalizations 0 Deaths 
+758,Summer,"sandwich, salmon, lettuce, based salads",78 illness 0 Hospitalizations 0 Deaths 
+759,Summer,"fish, catfish, cabbage, coleslaw",82 illness 4 Hospitalizations 0 Deaths 
+760,Spring,"swiss cheese, pasteurized, mushrooms, canned",130 illness 28 Hospitalizations 0 Deaths 
+761,Winter,"veggie, based pasta, cake, chocolate",4 illness 0 Hospitalizations 0 Deaths 
+762,Winter,"goat cheese, chevre, peppers, red",4 illness 0 Hospitalizations 0 Deaths 
+763,Spring,"bread, fish, salad",70 illness 0 Hospitalizations 0 Deaths 
+764,Spring,"eggs, pork, bacon, sausage",12 illness 0 Hospitalizations 0 Deaths 
+765,Winter,"cake, cassata, cannelloni, egg",392 illness 48 Hospitalizations 0 Deaths 
+766,Summer,"pancakes, pork, bacon",4 illness 0 Hospitalizations 0 Deaths 
+767,Summer,"banana, cantaloupe, pineapple",32 illness 0 Hospitalizations 0 Deaths 
+768,Autumn,"chicken, grilled, lamb",4 illness 0 Hospitalizations 0 Deaths 
+769,Autumn,"candy, toffee, cake, brownie, egg",10 illness 0 Hospitalizations 0 Deaths 
+770,Autumn&Spring,"pizza, cheese, meat, vegetable",14 illness 0 Hospitalizations 0 Deaths 
+771,Autumn,"pizza, meat, vegetable",10 illness 0 Hospitalizations 0 Deaths 
+772,Summer,"fried rice, chicken, sesame, potato, baked",10 illness 0 Hospitalizations 0 Deaths 
+773,Summer,"pie, merengue, chocolate",12 illness 0 Hospitalizations 0 Deaths 
+774,Spring,"milk, unpasteurized, cheese",36 illness 0 Hospitalizations 0 Deaths 
+775,Winter,"crawfish, crayfish, oysters, raw",20 illness 0 Hospitalizations 0 Deaths 
+776,Autumn,"deli meat, sliced turkey, cucumber",76 illness 4 Hospitalizations 0 Deaths 
+777,Autumn,"sandwich, deli, sprouts, root (eg. potato)",64 illness 0 Hospitalizations 0 Deaths 
+778,Autumn,"fish, ulua, soup, ulua head, fin fish",8 illness 0 Hospitalizations 0 Deaths 
+779,Autumn,"salmon, raw, sushi",6 illness 0 Hospitalizations 0 Deaths 
+780,Spring,"ice cream, fried, eggs",94 illness 2 Hospitalizations 0 Deaths 
+781,Autumn,"sandwich, ham, seafood dish, pudding, banana",136 illness 0 Hospitalizations 0 Deaths 
+782,Autumn,"bread, cornbread dressing, turkey, baked, sweet potato",10 illness 4 Hospitalizations 0 Deaths 
+783,Autumn,"ground beef, hamburger, beef, leafy green",14 illness 0 Hospitalizations 0 Deaths 
+784,Summer,"onion, tart, mixed vegetables, green salad",88 illness 0 Hospitalizations 0 Deaths 
+785,Winter,"gravy, potato, mashed, potato salad",92 illness 0 Hospitalizations 0 Deaths 
+786,Summer,"pastry, paris, brest, tomato, basil, mozzarella salad",94 illness 0 Hospitalizations 0 Deaths 
+787,Autumn&Winter,"turkey, smoked, ham, pork",180 illness 0 Hospitalizations 0 Deaths 
+788,Autumn,"roast beef, seafood, beef",34 illness 2 Hospitalizations 0 Deaths 
+789,Winter&Spring,"salsa, chips, tortilla",56 illness 0 Hospitalizations 0 Deaths 
+790,Winter,"chicken, teriyaki, sauces, dressings",38 illness 0 Hospitalizations 0 Deaths 
+791,Autumn,"steak, sirloin, lettuce, based salads",4 illness 0 Hospitalizations 0 Deaths 
+792,Spring,"burrito, bean, refried beans",210 illness 0 Hospitalizations 0 Deaths 
+793,Winter,"sandwich, steak, fish sandwich",8 illness 0 Hospitalizations 0 Deaths 
+794,Spring,"sandwich, french dip, salad",74 illness 0 Hospitalizations 0 Deaths 
+795,Winter,"turkey, baked, ice cream, commercial",14 illness 0 Hospitalizations 0 Deaths 
+796,Winter,"tuna, raw, sushi, fin fish",10 illness 0 Hospitalizations 0 Deaths 
+797,Winter,"chicken, nuggets, fingers, quesadilla",8 illness 0 Hospitalizations 0 Deaths 
+798,Autumn,"cheese, eggs, ham",4 illness 0 Hospitalizations 0 Deaths 
+799,Winter,"mayonnaise, commercial, ground beef, hamburger, lettuce",8 illness 0 Hospitalizations 0 Deaths 
+800,Summer,"chicken, curry, lamb",38 illness 0 Hospitalizations 0 Deaths 
+801,Winter,"bread, sourdough, bruschetta, cake",20 illness 0 Hospitalizations 0 Deaths 
+802,Winter,"american cheese, deli meat, sliced ham, sliced turkey",50 illness 0 Hospitalizations 0 Deaths 
+803,Winter,"rice, white, kidney bean, vegetable, based salads",6 illness 0 Hospitalizations 0 Deaths 
+804,Winter,"potato, baked, salad, french dressing",48 illness 0 Hospitalizations 0 Deaths 
+805,Winter,"pasta salad, vegetable, based salads, tuna salad",112 illness 0 Hospitalizations 0 Deaths 
+806,Summer,"beef, quesadilla, chicken",8 illness 0 Hospitalizations 0 Deaths 
+807,Spring,"lo mein, vegetable, beef",12 illness 0 Hospitalizations 0 Deaths 
+808,Spring,"garden salad, vegetable, based salads",90 illness 2 Hospitalizations 0 Deaths 
+809,Winter,"pie, cream, tap water, house salad",204 illness 6 Hospitalizations 0 Deaths 
+810,Spring,"fajita, beef, refried beans",34 illness 0 Hospitalizations 0 Deaths 
+811,Spring,"mixed fruit, beets, fruit",220 illness 0 Hospitalizations 0 Deaths 
+812,Summer,"salsa, quesadilla, chicken",48 illness 0 Hospitalizations 0 Deaths 
+813,Spring,"strawberries, melon, house salad",124 illness 10 Hospitalizations 0 Deaths 
+814,Spring,"ground turkey, burger, lettuce, based salads",10 illness 0 Hospitalizations 0 Deaths 
+815,Spring,"tuna, bbq, raw",4 illness 0 Hospitalizations 0 Deaths 
+816,Spring,"ham, chocolate, green salad, pork, leafy green",116 illness 0 Hospitalizations 0 Deaths 
+817,Spring,"ethnic style, pork, cake, egg",62 illness 0 Hospitalizations 0 Deaths 
+818,Spring,"salad, chicken, root (eg. potato)",24 illness 2 Hospitalizations 0 Deaths 
+819,Summer,"chicken, baked, green pea salad, egg",1034 illness 0 Hospitalizations 0 Deaths 
+820,Spring&Winter,"meat, egg, based salads",8 illness 0 Hospitalizations 0 Deaths 
+821,Spring,"sandwich, reuben, pudding",40 illness 0 Hospitalizations 0 Deaths 
+822,Spring,"eggs, soup, chicken, mushroom",134 illness 4 Hospitalizations 0 Deaths 
+823,Spring,"eggs, quiche, multiple salads, chicken",28 illness 0 Hospitalizations 0 Deaths 
+824,Autumn,"potato, mashed, eggs",12 illness 2 Hospitalizations 0 Deaths 
+825,Summer,"shrimp, egg rolls, vegetable, based salads",8 illness 0 Hospitalizations 0 Deaths 
+826,Spring,"chicken, potato, mashed, caesar salad",130 illness 2 Hospitalizations 0 Deaths 
+827,Summer,"tartar sauce, fish, grouper, coleslaw",4 illness 0 Hospitalizations 0 Deaths 
+828,Summer,"pizza, cheese, meat",20 illness 0 Hospitalizations 0 Deaths 
+829,Spring,"burrito, bean, cheese, legume",104 illness 0 Hospitalizations 0 Deaths 
+830,Spring,"beverage, liver, chicken",10 illness 0 Hospitalizations 0 Deaths 
+831,Summer,"potato, mashed, custard, pudding, banana",8 illness 4 Hospitalizations 0 Deaths 
+832,Summer,"shell eggs, scrambled hard, french toast, egg",26 illness 0 Hospitalizations 0 Deaths 
+833,Spring,"cottage cheese, vegetable, based salads, fruit",98 illness 0 Hospitalizations 0 Deaths 
+834,Autumn,"ground beef, hamburger, meatballs",112 illness 22 Hospitalizations 0 Deaths 
+835,Autumn,"tomato, chicken, iceberg lettuce",66 illness 30 Hospitalizations 0 Deaths 
+836,Summer,"sandwich, wrap, leafy green, vine, stalk eg. tomato",40 illness 0 Hospitalizations 0 Deaths 
+837,Autumn,"beef, refried beans, legume",10 illness 0 Hospitalizations 0 Deaths 
+838,Summer,"cucumber, vine, stalk eg. tomato",44 illness 0 Hospitalizations 0 Deaths 
+839,Autumn,"apple cider, unpasteurized, fruit",424 illness 28 Hospitalizations 0 Deaths 
+840,Summer,"deli meat, sliced turkey ham, beans, baked",112 illness 0 Hospitalizations 0 Deaths 
+841,Spring,"crab, oysters, raw",4 illness 4 Hospitalizations 0 Deaths 
+842,Spring,"mussels, soup, beef, based",8 illness 0 Hospitalizations 0 Deaths 
+843,Winter,"beef, chicken, baked",6 illness 0 Hospitalizations 0 Deaths 
+844,Summer,"water, pastry, ice",180 illness 0 Hospitalizations 0 Deaths 
+845,Summer,"fried onions, onion rings, salad",4 illness 0 Hospitalizations 0 Deaths 
+846,Summer,"sandwich, bacon, lettuce, tomato, multiple foods",24 illness 0 Hospitalizations 0 Deaths 
+847,Autumn,"food, sandwich, ham, deli meat, sliced turkey",42 illness 0 Hospitalizations 0 Deaths 
+848,Summer,"clams, raw, shrimp sauce, shellfish, sauces, dressings",92 illness 0 Hospitalizations 0 Deaths 
+849,Autumn,"burrito, bean, rice",22 illness 0 Hospitalizations 0 Deaths 
+850,Winter,"salmon, vegetable, based salads, crab, fried, root (eg. potato)",18 illness 0 Hospitalizations 0 Deaths 
+851,Autumn,"rice, pork, bbq",18 illness 0 Hospitalizations 0 Deaths 
+852,Autumn,"gravy, turkey, roasted, stuffing",22 illness 0 Hospitalizations 0 Deaths 
+853,Winter,"roast beef, turkey, baked",60 illness 2 Hospitalizations 0 Deaths 
+854,Winter,"salsa, lettuce, based salads",14 illness 0 Hospitalizations 0 Deaths 
+855,Autumn,"sandwich, deli, lettuce, based salads, leafy green",52 illness 0 Hospitalizations 0 Deaths 
+856,Autumn,"sausage, italian, carrots",34 illness 0 Hospitalizations 0 Deaths 
+857,Autumn,"eggplant, potato, cake, chocolate",66 illness 0 Hospitalizations 0 Deaths 
+858,Autumn,"meat, egg, based salads, seafood, based salad",14 illness 0 Hospitalizations 0 Deaths 
+859,Spring,"orange juice, pasteurized, fajita, chicken",72 illness 0 Hospitalizations 0 Deaths 
+860,Winter,"clams, fried, squid, calamari",10 illness 0 Hospitalizations 0 Deaths 
+861,Winter,"eggs, french, toast, egg",14 illness 2 Hospitalizations 0 Deaths 
+862,Autumn,"tomato (see fruit), vidalia onion, romaine lettuce",16 illness 2 Hospitalizations 0 Deaths 
+863,Winter,"ground beef, cheeseburger, chicken",68 illness 18 Hospitalizations 0 Deaths 
+864,Spring,"beef, creamed, chipped",78 illness 0 Hospitalizations 0 Deaths 
+865,Autumn,"egg salad, egg salad sandwich, pork, chops, potato, mashed, egg, root (eg. potato)",194 illness 6 Hospitalizations 0 Deaths 
+866,Winter,"pudding, bread, lettuce, based salads, pasta",56 illness 4 Hospitalizations 0 Deaths 
+867,Autumn,"cantaloupe, honeydew melon, watermelon, fruit",60 illness 0 Hospitalizations 0 Deaths 
+868,Winter,"sandwich, gyro, leafy green, vine, stalk eg. tomato",4 illness 0 Hospitalizations 0 Deaths 
+869,Spring,"house salad, pasta, based salads, meat, egg",46 illness 2 Hospitalizations 0 Deaths 
+870,Autumn,"unknown beverage, condiment, ice",194 illness 2 Hospitalizations 0 Deaths 
+871,Autumn,"cream cheese, bagels, cheese, bread",54 illness 0 Hospitalizations 0 Deaths 
+872,Spring,"potato, baked, dairy, *****",14 illness 0 Hospitalizations 0 Deaths 
+873,Spring,"pasta, potato, salad",62 illness 0 Hospitalizations 0 Deaths 
+874,Summer,"burrito, beef, legume, root (eg. potato)",22 illness 0 Hospitalizations 0 Deaths 
+875,Spring,"sandwich, deli, bread, turkey",4 illness 0 Hospitalizations 0 Deaths 
+876,Spring,"beef, cake, custard, filled",12 illness 0 Hospitalizations 0 Deaths 
+877,Winter,"eggs, ham, loaf",60 illness 0 Hospitalizations 0 Deaths 
+878,Spring,"bread, cornbread dressing, chicken, baked",14 illness 8 Hospitalizations 0 Deaths 
+879,Winter,"guacamole, chips, salsa",88 illness 0 Hospitalizations 0 Deaths 
+880,Spring,"ground beef, hamburger, sausage, bratwurst, bread",16 illness 0 Hospitalizations 0 Deaths 
+881,Winter,"chicken, nuggets, fingers, chicken salad",8 illness 0 Hospitalizations 0 Deaths 
+882,Spring,"dips, strawberries, melon",40 illness 0 Hospitalizations 0 Deaths 
+883,Spring,"sauces, fajita, guacamole",324 illness 0 Hospitalizations 0 Deaths 
+884,Spring,"sandwich, roast beef, chicken, nuggets, fingers, potato, fried",8 illness 0 Hospitalizations 0 Deaths 
+885,Winter,"chicken, refried beans, taco or nacho salad",6 illness 0 Hospitalizations 0 Deaths 
+886,Summer,"fish, amberjack, mahi mahi",4 illness 0 Hospitalizations 0 Deaths 
+887,Spring,"taco, rice, spanish, refried beans",14 illness 0 Hospitalizations 0 Deaths 
+888,Spring,"rice, chicken, sesame, crab dishes",4 illness 0 Hospitalizations 0 Deaths 
+889,Spring,"chicken, rice, sesame, crab dishes",8 illness 0 Hospitalizations 0 Deaths 
+890,Summer,"stuffing, dressing, gravy, chicken",122 illness 14 Hospitalizations 0 Deaths 
+891,Spring,"pork, bbq, ribs",64 illness 12 Hospitalizations 0 Deaths 
+892,Winter,"fish, shrimp, coleslaw",8 illness 0 Hospitalizations 0 Deaths 
+893,Summer,"chicken, bbq, baked",26 illness 4 Hospitalizations 0 Deaths 
+894,Summer,"chicken, noodles, pre, packaged salad",24 illness 0 Hospitalizations 0 Deaths 
+895,Summer,"sandwich, tuna fish, deli",4 illness 0 Hospitalizations 0 Deaths 
+896,Spring,"cantaloupe, chicken, bbq, corned beef",252 illness 30 Hospitalizations 0 Deaths 
+897,Spring,"steak, prime rib, seafood",8 illness 0 Hospitalizations 0 Deaths 
+898,Summer,"tomato salad, green salad, tuna salad, vine, stalk eg. tomato, leafy green, pasta",62 illness 2 Hospitalizations 0 Deaths 
+899,Summer,"ground beef, hamburger, sausage, pork",12 illness 0 Hospitalizations 0 Deaths 
+900,Summer,"spaghetti, beef, chili",14 illness 0 Hospitalizations 0 Deaths 
+901,Summer,"sandwich, pork, cilantro",10 illness 8 Hospitalizations 0 Deaths 
+902,Summer,"onion, tomato, root (eg. potato), vine, stalk eg. tomato",54 illness 4 Hospitalizations 0 Deaths 
+903,Autumn,"specialty, ethnic dishes, samosa, chicken, egg",20 illness 0 Hospitalizations 0 Deaths 
+904,Autumn,"turkey, roasted, stuffing, gravy",70 illness 18 Hospitalizations 0 Deaths 
+905,Autumn,"bread, cake, cheese",8 illness 0 Hospitalizations 0 Deaths 
+906,Autumn,"cheese, relish tray, leafy green, root (eg. potato)",54 illness 0 Hospitalizations 0 Deaths 
+907,Autumn,"ice cream, commercial, ice tea, caesar salad, water based (eg. drink mix), leafy green",50 illness 0 Hospitalizations 0 Deaths 
+908,Autumn,"taco dip, grapes, fruit",44 illness 0 Hospitalizations 0 Deaths 
+909,Autumn,"pizza, cheese, potato chips, ice cream, commercial, bread, root (eg. potato)",36 illness 0 Hospitalizations 0 Deaths 
+910,Spring,"tomato, lettuce, burrito, enchilada",76 illness 0 Hospitalizations 0 Deaths 
+911,Spring,"chicken salad, potato salad, coleslaw, tomato",28 illness 0 Hospitalizations 0 Deaths 
+912,Autumn,"meat, beans, legume",10 illness 0 Hospitalizations 0 Deaths 
+913,Winter,"chips, tortilla, crab, imitation, wraps, tortillas, crustacean",64 illness 6 Hospitalizations 0 Deaths 
+914,Autumn,"corn, roast beef, produce, beef",82 illness 0 Hospitalizations 0 Deaths 
+915,Summer,"spread, filling, egg",314 illness 2 Hospitalizations 0 Deaths 
+916,Autumn,"sandwich, red meat, based, sauces, dressings",112 illness 0 Hospitalizations 0 Deaths 
+917,Autumn,"fish, swordfish, tuna, seabass",4 illness 0 Hospitalizations 0 Deaths 
+918,Winter,"pasta pesto, vine, stalk eg. tomato, pasta",42 illness 0 Hospitalizations 0 Deaths 
+919,Winter,"lettuce, based salads, egg, leafy green, vine, stalk eg. tomato",70 illness 14 Hospitalizations 0 Deaths 
+920,Winter,"crab, potato, baked",4 illness 0 Hospitalizations 0 Deaths 
+921,Winter,"ground beef, sloppy joe, chicken",24 illness 0 Hospitalizations 0 Deaths 
+922,Winter,"oil, liver, chicken, egg",226 illness 46 Hospitalizations 0 Deaths 
+923,Winter,"sweet potato, stuffing, turkey, gravy, roasted, green beans",46 illness 0 Hospitalizations 0 Deaths 
+924,Winter,"fish, mussels, ice cream, yogurt",10 illness 0 Hospitalizations 0 Deaths 
+925,Winter,"refried beans, rice, legume",16 illness 0 Hospitalizations 0 Deaths 
+926,Winter,"sour cream, cheddar cheese, chips, tortilla",34 illness 0 Hospitalizations 0 Deaths 
+927,Winter,"tap water, green salad, mozarella",56 illness 0 Hospitalizations 0 Deaths 
+928,Summer,"pasta salad, vine, stalk eg. tomato, root (eg. potato), pasta, sauces, dressings",44 illness 0 Hospitalizations 0 Deaths 
+929,Winter,"sandwich, beef, tuna fish, deli, house salad",32 illness 0 Hospitalizations 0 Deaths 
+930,Autumn,"potato salad, root (eg. potato), sauces, dressings",292 illness 0 Hospitalizations 0 Deaths 
+931,Summer,"sandwich, chicken, green salad, leafy green, vine, stalk eg. tomato",18 illness 6 Hospitalizations 0 Deaths 
+932,Spring,"fajita, chicken, beef, onions, peppers",56 illness 2 Hospitalizations 0 Deaths 
+933,Winter,"chicken, teriyaki, sushi",322 illness 14 Hospitalizations 0 Deaths 
+934,Spring,"burrito, fruit, sauces, dressings",6 illness 2 Hospitalizations 0 Deaths 
+935,Spring,"octopus, scallops, lobster, fried, shellfish, crustacean",38 illness 2 Hospitalizations 0 Deaths 
+936,Winter,"chips, salsa, fruit, leafy green, vine, stalk eg. tomato",38 illness 2 Hospitalizations 0 Deaths 
+937,Spring,"lettuce, based salads, cake, chicken dishes, meatballs, pasta",36 illness 0 Hospitalizations 0 Deaths 
+938,Spring,"ravioli, lettuce, based salads, pasta",52 illness 0 Hospitalizations 0 Deaths 
+939,Winter,"salad, potato, mashed",8 illness 0 Hospitalizations 0 Deaths 
+940,Summer,"multiple cheeses, pasteurized, vegetable tray, beverage, ice",40 illness 0 Hospitalizations 0 Deaths 
+941,Summer,"lobster salad, sweet rice, crabmeat, shark fin soup",48 illness 0 Hospitalizations 0 Deaths 
+942,Spring,"ground beef, meatballs, green salad, steak",6 illness 4 Hospitalizations 0 Deaths 
+943,Summer,"tortellini, cheese, seafood dish, shrimp, fried, crustacean",110 illness 0 Hospitalizations 0 Deaths 
+944,Summer,"potato salad, pork, beans, baked",88 illness 0 Hospitalizations 0 Deaths 
+945,Summer,"potato salad, ground beef, hamburger, beef",34 illness 18 Hospitalizations 2 Deaths 
+946,Spring,"lettuce, based salads, egg, based sauce",22 illness 0 Hospitalizations 0 Deaths 
+947,Spring,"tortilla, cheese, iceberg lettuce",36 illness 0 Hospitalizations 0 Deaths 
+948,Summer,"fish, tilapia, chicken, fried",34 illness 0 Hospitalizations 0 Deaths 
+949,Summer,"tomato, beefsteak, vine, stalk eg. tomato",209 illness 27 Hospitalizations 0 Deaths 
+950,Autumn,"lettuce, prepackaged, grapes, green",24 illness 8 Hospitalizations 0 Deaths 
+951,Summer,"mayonnaise, homemade, cake, tiramisu, eggs, crab cakes, egg",46 illness 10 Hospitalizations 0 Deaths 
+952,Autumn,"crab salad, soup, crab, crustacean",10 illness 0 Hospitalizations 0 Deaths 
+953,Autumn,"ice tea, lettuce based salads, fruit, leafy green",20 illness 0 Hospitalizations 0 Deaths 
+954,Spring,"beef, potato salad, rice",72 illness 0 Hospitalizations 0 Deaths 
+955,Summer,"caesar salad, salad, bread",72 illness 2 Hospitalizations 0 Deaths 
+956,Summer,"sausage, bratwurst, chicken, grilled",26 illness 4 Hospitalizations 0 Deaths 
+957,Summer,"clams, steamed, mussels",4 illness 0 Hospitalizations 0 Deaths 
+958,Autumn,"gravy, chicken, macaroni, cheese, rice, yellow, sauces, dressings, pasta",8 illness 0 Hospitalizations 0 Deaths 
+959,Autumn,"chicken, buffalo wings, pizza, meat, vegetable",4 illness 0 Hospitalizations 0 Deaths 
+960,Summer,"honeydew melon, plum, pizza, cheese, fruit",24 illness 6 Hospitalizations 0 Deaths 
+961,Autumn,"soup, beef, based, chicken, chicken noodle, root (eg. potato)",140 illness 0 Hospitalizations 0 Deaths 
+962,Autumn,"romaine lettuce, caesar salad, leafy green",90 illness 0 Hospitalizations 0 Deaths 
+963,Winter,"turkey, roasted, gravy",172 illness 0 Hospitalizations 0 Deaths 
+964,Winter,"fried onions, onion rings, dips",22 illness 4 Hospitalizations 0 Deaths 
+965,Winter,"sandwich, club, chicken",10 illness 0 Hospitalizations 0 Deaths 
+966,Autumn,"spinach dip, potato chips, rolls, tuna salad, antipasto, wedding soup, candy, chocolate, cream puffs, seafood dip",66 illness 0 Hospitalizations 0 Deaths 
+967,Autumn,"green salad, cheese spread, beverage, ice, leafy green, cheese",50 illness 0 Hospitalizations 0 Deaths 
+968,Autumn,"ground beef, meatballs, sausage, italian",76 illness 0 Hospitalizations 0 Deaths 
+969,Winter,"taco, beef, pizza, meat, vegetable",4 illness 0 Hospitalizations 0 Deaths 
+970,Spring,"ribs, pork, pizza",4 illness 0 Hospitalizations 0 Deaths 
+971,Winter,"coleslaw, alcohol, cake, cheese, mixed fruit, soup, turkey",36 illness 0 Hospitalizations 0 Deaths 
+972,Winter,"crab, cooked, rice, white, spinach",20 illness 0 Hospitalizations 0 Deaths 
+973,Summer,"chips, tortilla, chicken dishes",42 illness 0 Hospitalizations 0 Deaths 
+974,Autumn,"french fries, sandwich, beef, turkey, bread",32 illness 0 Hospitalizations 0 Deaths 
+975,Winter,"seafood pasta, roast beef, rice dishes",48 illness 0 Hospitalizations 0 Deaths 
+976,Winter,"pasta salad, coleslaw, chicken, grilled",80 illness 0 Hospitalizations 0 Deaths 
+977,Spring,"mixed fruit, sandwich, beef, fruit, melon, bread, cheese, leafy green, vine, stalk eg. tomato",216 illness 0 Hospitalizations 0 Deaths 
+978,Winter,"burrito, beef, cheese, chicken",16 illness 0 Hospitalizations 0 Deaths 
+979,Winter,"ham, leafy green, pork, wraps, tortillas",64 illness 2 Hospitalizations 0 Deaths 
+980,Autumn,"turkey, gravy, tea",154 illness 4 Hospitalizations 0 Deaths 
+981,Winter,"lettuce, egg rolls, spring rolls",16 illness 0 Hospitalizations 0 Deaths 
+982,Winter,"lettuce, based salads, fruit, beverage",76 illness 4 Hospitalizations 0 Deaths 
+983,Autumn,"chicken, bbq, ham, biscuit, potato salad",200 illness 4 Hospitalizations 0 Deaths 
+984,Spring,"chicken, baked, rice, wild, sauces, dressings",200 illness 0 Hospitalizations 0 Deaths 
+985,Summer,"vegetables, lettuce based salads, shrimp dishes",42 illness 0 Hospitalizations 0 Deaths 
+986,Spring,"sandwich, lettuce, based salads",100 illness 0 Hospitalizations 0 Deaths 
+987,Spring,"lemonade, turkey salad, ice, fruit, water, turkey",20 illness 0 Hospitalizations 0 Deaths 
+988,Autumn,"chicken, soy sauce, pork",20 illness 4 Hospitalizations 0 Deaths 
+989,Winter,"green salad, pizza, pep, ham, sausage",30 illness 0 Hospitalizations 0 Deaths 
+990,Spring,"pork, chicken, casserole",42 illness 2 Hospitalizations 0 Deaths 
+991,Spring,"steak, sirloin, beef tips",16 illness 12 Hospitalizations 0 Deaths 
+992,Summer,"potato salad, lemon, scallops, baked",62 illness 0 Hospitalizations 0 Deaths 
+993,Spring,"chicken, sandwich, ham, mixed vegetables, carrots, celery",196 illness 0 Hospitalizations 0 Deaths 
+994,Winter,"refried beans, rice, steamed",30 illness 0 Hospitalizations 0 Deaths 
+995,Spring,"tri, tip, beef, spices",30 illness 0 Hospitalizations 0 Deaths 
+996,Summer,"refried beans, taco, beef",4 illness 0 Hospitalizations 0 Deaths 
+997,Summer,"tomato, avocado, guacamole, cilantro",92 illness 0 Hospitalizations 0 Deaths 
+998,Winter,"bun, doughnuts, danishes",22 illness 2 Hospitalizations 0 Deaths 
+999,Summer,"tomato, cheese, chicken, fruit",10 illness 6 Hospitalizations 0 Deaths 
+1000,Winter,"fajita, beef, quesadilla, chicken",14 illness 0 Hospitalizations 0 Deaths 
+1001,Winter,"whole milk, unpasteurized, goat milk, butter, goat cheese, chevre, milk, cheese",124 illness 8 Hospitalizations 0 Deaths 
+1002,Summer,"cheese, bread, white",42 illness 0 Hospitalizations 0 Deaths 
+1003,Summer,"chips, tortilla, chicken, strips, ground beef, meatballs, stuffed mushroom, quiche, mixed fruit, crudites",28 illness 0 Hospitalizations 0 Deaths 
+1004,Spring,"turkey ziti, casserole, turkey, pasta",290 illness 0 Hospitalizations 0 Deaths 
+1005,Autumn,"grapes, pineapple, watermelon, cake",24 illness 4 Hospitalizations 0 Deaths 
+1006,Autumn,"macaroni, cheese, corn, rice, white, chicken, baked, ham",28 illness 0 Hospitalizations 0 Deaths 
+1007,Summer,"american cheese, pasteurized, margarine, cheese",270 illness 20 Hospitalizations 0 Deaths 
+1008,Autumn,"chicken, rice, lamb, pita",6 illness 0 Hospitalizations 0 Deaths 
+1009,Spring,"dairy, *****, ice cream, homemade, milk",6 illness 0 Hospitalizations 0 Deaths 
+1010,Autumn,"ground beef, cheeseburger, chili, leafy green",52 illness 8 Hospitalizations 0 Deaths 
+1011,Spring,"acai, bananas, strawberries, sugar cane juice",6 illness 4 Hospitalizations 0 Deaths 
+1012,Autumn,"chicken, baked, grilled",6 illness 2 Hospitalizations 0 Deaths 
+1013,Winter,"refried beans, enchilada, chicken",16 illness 0 Hospitalizations 0 Deaths 
+1014,Autumn,"sandwich, turkey, beef, ham, tuna fish, leafy green",50 illness 2 Hospitalizations 0 Deaths 
+1015,Autumn,"fajita, chicken, guacamole, refried beans",12 illness 0 Hospitalizations 0 Deaths 
+1016,Autumn,"mutiple mexican foods, beef, leafy green, wraps, tortillas",100 illness 0 Hospitalizations 0 Deaths 
+1017,Autumn,"peppers, chili, vine, stalk eg. tomato",8 illness 6 Hospitalizations 2 Deaths 
+1018,Winter,"turkey, roasted, stuffing",54 illness 6 Hospitalizations 0 Deaths 
+1019,Autumn,"mixed fruit, fruit, melon",88 illness 0 Hospitalizations 0 Deaths 
+1020,Autumn,"sandwich, turkey, bread, cheese",142 illness 0 Hospitalizations 0 Deaths 
+1021,Autumn,"steak, chicken, cacciatore, eggplant",32 illness 0 Hospitalizations 0 Deaths 
+1022,Summer,"skim milk, pasteurized, milk",10 illness 10 Hospitalizations 6 Deaths 
+1023,Winter,"steak, prime rib, lettuce based salads, bread",96 illness 0 Hospitalizations 0 Deaths 
+1024,Winter,"taco meat, burrito, beef, chips, salsa",8 illness 0 Hospitalizations 0 Deaths 
+1025,Winter,"eggs, desserts, dessert",156 illness 4 Hospitalizations 0 Deaths 
+1026,Autumn,"ice cream, fresh berries, fruit",34 illness 0 Hospitalizations 0 Deaths 
+1027,Autumn,"fruit salad, salad bar, fruit",120 illness 0 Hospitalizations 0 Deaths 
+1028,Winter,"ground beef, hamburger, cheese, bun, potato chips, pizza",6 illness 0 Hospitalizations 0 Deaths 
+1029,Winter,"steak, prime rib, lettuce",12 illness 0 Hospitalizations 0 Deaths 
+1030,Spring,"fruit salad, green salad, cantaloupe, honeydew melon, grapes",60 illness 10 Hospitalizations 0 Deaths 
+1031,Winter,"rice, lettuce, beans",16 illness 2 Hospitalizations 0 Deaths 
+1032,Spring,"water, beverage, ice",36 illness 0 Hospitalizations 0 Deaths 
+1033,Spring,"frosting, icing, cake",24 illness 0 Hospitalizations 0 Deaths 
+1034,Spring,"steak, tuna, shrimp",10 illness 0 Hospitalizations 0 Deaths 
+1035,Spring,"salad, cake, tossed salad, cheese, vine, stalk eg. tomato, sauces, dressings, leafy green",62 illness 0 Hospitalizations 0 Deaths 
+1036,Spring,"cake, tiramisu, hazelnut",24 illness 0 Hospitalizations 0 Deaths 
+1037,Winter,"sandwich, ham, cheese, mayonnaise, commercial",62 illness 0 Hospitalizations 0 Deaths 
+1038,Spring,"refried beans, rice, spanish",4 illness 0 Hospitalizations 0 Deaths 
+1039,Spring,"salsa, rice, beans",134 illness 20 Hospitalizations 0 Deaths 
+1040,Spring,"fajita, chicken, fried rice, refried beans, tortilla, tomato",16 illness 0 Hospitalizations 0 Deaths 
+1041,Spring,"chicken, rice, green beans, cake, brownie",86 illness 6 Hospitalizations 0 Deaths 
+1042,Spring,"guacamole, refried beans, rice, spanish",6 illness 0 Hospitalizations 0 Deaths 
+1043,Winter,"lettuce, spinach, leafy green",152 illness 8 Hospitalizations 0 Deaths 
+1044,Spring,"macaroni salad, seafood soup, stew",40 illness 0 Hospitalizations 0 Deaths 
+1045,Spring,"cake, chicken, nuggets, fingers, ribs, potato",268 illness 0 Hospitalizations 0 Deaths 
+1046,Summer,"ice, lettuce, based salads",46 illness 0 Hospitalizations 0 Deaths 
+1047,Summer,"gravy, beef, potato, mashed, chicken, mushroom sauce",22 illness 0 Hospitalizations 0 Deaths 
+1048,Summer,"brie, sauces, pineapple, cantaloupe",6 illness 0 Hospitalizations 0 Deaths 
+1049,Autumn,"tri, tip, potatoes, roasted",24 illness 0 Hospitalizations 0 Deaths 
+1050,Summer,"gravy, pork, sauces, dressings",18 illness 0 Hospitalizations 0 Deaths 
+1051,Summer,"egg rolls, rice, chicken",4 illness 0 Hospitalizations 0 Deaths 
+1052,Summer,"pudding, whipped cream, unpasteurized",86 illness 6 Hospitalizations 0 Deaths 
+1053,Summer,"cheese, pasteurized, watermelon, grapes",54 illness 0 Hospitalizations 0 Deaths 
+1054,Summer,"mole, pasta, tomato sauce, vine, stalk eg. tomato",18 illness 0 Hospitalizations 0 Deaths 
+1055,Summer,"tuna, raw, fish, bass",8 illness 4 Hospitalizations 0 Deaths 
+1056,Summer,"peppers, jalapeno, vine, stalk eg. tomato",34 illness 0 Hospitalizations 0 Deaths 
+1057,Summer,"clams, raw, steamed",536 illness 14 Hospitalizations 0 Deaths 
+1058,Summer,"fish, baracuda, amberjack, fin fish",16 illness 0 Hospitalizations 0 Deaths 
+1059,Autumn,"ground beef, hamburger, steak, sandwich, beef",16 illness 10 Hospitalizations 0 Deaths 
+1060,Autumn,"parmesan cheese, olive, vegetable, onion, pesto, chocolate, multiple cheeses, pasteurized",36 illness 0 Hospitalizations 0 Deaths 
+1061,Spring,"cheese, cilantro, chicken, raw",202 illness 42 Hospitalizations 0 Deaths 
+1062,Autumn,"gravy, pork, roasted",396 illness 0 Hospitalizations 0 Deaths 
+1063,Summer,"eggs, blintz, cheese",18 illness 0 Hospitalizations 0 Deaths 
+1064,Winter,"fruit salad, vegetable, based salads",120 illness 0 Hospitalizations 0 Deaths 
+1065,Autumn,"ice tea, ice, water based (eg. drink mix), water",66 illness 0 Hospitalizations 0 Deaths 
+1066,Autumn,"chicken pot pie, squash, spring salad",8 illness 0 Hospitalizations 0 Deaths 
+1067,Autumn,"alfalfa sprouts, iceberg lettuce, sprouts, leafy green",42 illness 4 Hospitalizations 0 Deaths 
+1068,Summer,"beef, roast, gravy, sauces, dressings",32 illness 0 Hospitalizations 0 Deaths 
+1069,Autumn,"stuffing, sauces, dressings",90 illness 0 Hospitalizations 0 Deaths 
+1070,Winter,"mixed fruit, asian walnut salad, fruit",160 illness 0 Hospitalizations 0 Deaths 
+1071,Summer,"plantains, chicken, broiled, rice, yellow, pigeon peas",8 illness 0 Hospitalizations 0 Deaths 
+1072,Winter,"doughnuts, bagels, ice tea, english muffin, cinnamon twist",32 illness 0 Hospitalizations 0 Deaths 
+1073,Winter,"cake, brownie, chips, cookies",62 illness 0 Hospitalizations 0 Deaths 
+1074,Spring,"peppers, jalapeno, tomato, serrano",3000 illness 616 Hospitalizations 4 Deaths 
+1075,Winter,"cereal, puffed rice, puffed wheat",72 illness 24 Hospitalizations 0 Deaths 
+1076,Spring,"quesadilla, beef, steak, chips, salsa",6 illness 0 Hospitalizations 0 Deaths 
+1077,Winter,"salad, lettuce, tomato",16 illness 0 Hospitalizations 0 Deaths 
+1078,Summer,"beef, lamb, pork, roasted",70 illness 8 Hospitalizations 0 Deaths 
+1079,Spring,"chicken, grilled, rice, yellow, beans",52 illness 0 Hospitalizations 0 Deaths 
+1080,Spring,"chicken, waffles, liver",14 illness 2 Hospitalizations 0 Deaths 
+1081,Spring,"tomato, basil, mozzarella salad, mozarella",4 illness 0 Hospitalizations 0 Deaths 
+1082,Spring,"bruschetta, chicken, marsala",40 illness 0 Hospitalizations 0 Deaths 
+1083,Spring,"tomatoes, raw, ground beef, tomato",20 illness 2 Hospitalizations 0 Deaths 
+1084,Spring,"pork, macaroni salad, sandwich, chicken",20 illness 0 Hospitalizations 0 Deaths 
+1085,Summer,"salmon, spices, fish, pepper, ground",36 illness 0 Hospitalizations 0 Deaths 
+1086,Spring,"fettucine alfredo, cream, parmesan cheese, pasta",28 illness 0 Hospitalizations 0 Deaths 
+1087,Spring,"chicken, salad, eggs, lettuce, tomato, egg",12 illness 6 Hospitalizations 0 Deaths 
+1088,Spring,"salad, cucumber, onion, tomatoes, roma",30 illness 2 Hospitalizations 0 Deaths 
+1089,Summer,"meat, rice, pork",144 illness 0 Hospitalizations 0 Deaths 
+1090,Summer&Spring&Autumn,"chicken, liver mousse, liver",27 illness 6 Hospitalizations 0 Deaths 
+1091,Summer,"fish, amberjack, hogfish",8 illness 0 Hospitalizations 0 Deaths 
+1092,Summer,"omelette, crepes, egg, sausage, pork",4 illness 0 Hospitalizations 0 Deaths 
+1093,Summer,"ethnic style, buffet, rice, white",12 illness 0 Hospitalizations 0 Deaths 
+1094,Summer,"chicken katsu plate, korean chicken, chicken",6 illness 0 Hospitalizations 0 Deaths 
+1095,Autumn,"pork, roasted, rice, spanish, peas, yellow",30 illness 0 Hospitalizations 0 Deaths 
+1096,Autumn,"chicken, grilled, blackened",20 illness 2 Hospitalizations 0 Deaths 
+1097,Autumn,"cheese, crackers, fruit, green beans",340 illness 2 Hospitalizations 0 Deaths 
+1098,Spring,"bruschetta, basil, bread, oil, tomato",76 illness 2 Hospitalizations 0 Deaths 
+1099,Summer,"pastry, custard, filled, egg",18 illness 2 Hospitalizations 0 Deaths 
+1100,Autumn,"chicken, liver, fish, codfish, salmon",6 illness 0 Hospitalizations 0 Deaths 
+1101,Winter,"pizza, sausage, cookies, chocolate chip",12 illness 0 Hospitalizations 0 Deaths 
+1102,Autumn,"green beans, potatoes, mashed",16 illness 0 Hospitalizations 0 Deaths 
+1103,Autumn,"chicken, confit, chili sauce, onion, tomato",4 illness 0 Hospitalizations 0 Deaths 
+1104,Winter,"pizza, mushrooms, black olives, pepperoni, basil, garlic, oil, olives, black, salt, sugar, white, pepperroni, sauces, dressings",8 illness 0 Hospitalizations 0 Deaths 
+1105,Autumn,"rice, spanish, chili colorado, chili verde",40 illness 0 Hospitalizations 0 Deaths 
+1106,Autumn,"pizza, pepperoni, cheese",10 illness 0 Hospitalizations 0 Deaths 
+1107,Autumn,"turkey, smoked, stuffing, dressing",6 illness 2 Hospitalizations 0 Deaths 
+1108,Winter,"sandwich, ham, tuna salad",26 illness 0 Hospitalizations 0 Deaths 
+1109,Winter,"enchilada, beef, rice, beans",14 illness 0 Hospitalizations 0 Deaths 
+1110,Summer,"sushi, fish, tuna",6 illness 0 Hospitalizations 0 Deaths 
+1111,Spring,"lettuce, tomato (see fruit), tortilla",16 illness 0 Hospitalizations 0 Deaths 
+1112,Summer,"kale, pineapple juice, unpasteurized",4 illness 0 Hospitalizations 0 Deaths 
+1113,Summer,"rice, brown, salsa, chicken",44 illness 0 Hospitalizations 0 Deaths 
+1114,Winter,"cake, cheese, eggs, quiche, petit fours, truffles, coffee, beverages, water, breads",20 illness 0 Hospitalizations 0 Deaths 
+1115,All Season,Almond,Nut Allergy
+1116,All Season,Apple,Oral Allergy Syndrome
+1117,All Season,Apricot,Stone Fruit Allergy
+1118,All Season,Artichoke,Insulin Allergy
+1119,All Season,Asparagus,Allium Allergy
+1120,All Season,Avocado,Oral Allergy Syndrome
+1121,All Season,Bamboo shoot,Histamine Allergy
+1122,All Season,Banana,Banana Allergy
+1123,All Season,Barley,Gluten Allergy
+1124,All Season,Bean,Legume Allergy
+1125,All Season,Blackberry,Salicylate Allergy
+1126,All Season,Black-eyed bean,Legume Allergy
+1127,All Season,Blueberry,Salicylate Allergy
+1128,All Season,Bonito,Histamine Allergy
+1129,All Season,Broad bean,Legume Allergy
+1130,All Season,Broccoli,Broccoli allergy
+1131,All Season,Brussels sprouts,Cruciferous Allergy
+1132,All Season,Buckwheat,Gluten Allergy
+1133,All Season,Burdock,Ragweed Allergy
+1134,All Season,Butter,Milk allergy / Lactose intolerance
+1135,All Season,Butter bean,Legume Allergy
+1136,All Season,Buttermilk,Milk allergy / Lactose intolerance
+1137,All Season,Button mushroom,Mushroom Allergy
+1138,All Season,Cabbage,Cruciferous Allergy
+1139,All Season,Carrot,Hypersensitivity
+1140,All Season,Casein,Milk allergy / Lactose intolerance
+1141,All Season,Cattle,Alpha-gal Syndrome
+1142,All Season,Cauliflower,Cruciferous Allergy
+1143,All Season,Celery,Hypersensitivity
+1144,All Season,Cheese,Milk allergy / Lactose intolerance
+1145,All Season,Cherry,Stone Fruit Allergy
+1146,All Season,Chestnut,Nut Allergy
+1147,All Season,Chicken,Poultry Allergy
+1148,All Season,Chicory,Insulin Allergy
+1149,All Season,Chinese cabbage,Cruciferous Allergy
+1150,All Season,Coffee bean,Ochratoxin Allergy
+1151,All Season,Corn,Corn Allergy
+1152,All Season,Cotton seed,Seed Allergy
+1153,All Season,Cranberry,Salicylate Allergy
+1154,All Season,Cream,Milk allergy / Lactose intolerance
+1155,All Season,Crustaceans,Shellfish Allergy
+1156,All Season,Custard,Milk allergy / Lactose intolerance
+1157,All Season,Date,Oral Allergy Syndrome
+1158,All Season,Deer,Alpha-gal Syndrome
+1159,All Season,Duck,Poultry Allergy
+1160,All Season,Eel,Fish Allergy
+1161,All Season,Egg plant,Nightshade Allergy
+1162,All Season,Eggs,Poultry Allergy
+1163,All Season,Endive,Insulin Allergy
+1164,All Season,Fructose,Sugar Allergy / Intolerance
+1165,All Season,Garlic,Allium Allergy
+1166,All Season,Ginger,Histamine Allergy
+1167,All Season,Ginkgo nut,Nut Allergy
+1168,All Season,Globfish,Fish Allergy
+1169,All Season,Glucose,Sugar Allergy / Intolerance
+1170,All Season,Goat,Alpha-gal Syndrome
+1171,All Season,Grape,LTP Allergy
+1172,All Season,Grapefruit,Citrus Allergy
+1173,All Season,Green soybean,Legume Allergy
+1174,All Season,Guava,Oral Allergy Syndrome
+1175,All Season,Honey,Honey Allergy
+1176,All Season,Hop,Beer Allergy
+1177,All Season,Horse,Alpha-gal Syndrome
+1178,All Season,Horse Mackerel,Fish Allergy
+1179,All Season,Horseradish,Cruciferous Allergy
+1180,All Season,Huckleberry,Salicylate Allergy
+1181,All Season,Ice cream,Milk allergy / Lactose intolerance
+1182,All Season,Japanese pear,Oral Allergy Syndrome
+1183,All Season,Japanese plum,Stone Fruit Allergy
+1184,All Season,Kale,Cruciferous Allergy
+1185,All Season,Kidney bean,Legume Allergy
+1186,All Season,Kiwi,Oral Allergy Syndrome
+1187,All Season,Konjac,Potato Allergy
+1188,All Season,Kyona,Cruciferous Allergy
+1189,All Season,Lactose,Lactose Intolerance
+1190,All Season,Leek,Allium Allergy
+1191,All Season,Lemon,Citrus Allergy
+1192,All Season,Lentil,Legume Allergy
+1193,All Season,Lettuce ,LTP Allergy
+1194,All Season,Lima bean,Legume Allergy
+1195,All Season,Lime,Citrus Allergy
+1196,All Season,Loquat,Oral Allergy Syndrome
+1197,All Season,Mackerel,Fish Allergy
+1198,All Season,Mango,Oral Allergy Syndrome
+1199,All Season,Milk,Milk allergy / Lactose intolerance
+1200,All Season,Mineral water,Aquagenic Urticaria
+1201,All Season,Mitsuba,Hypersensitivity
+1202,All Season,Mume plum,Stone Fruit Allergy
+1203,All Season,Mustard Spinach,Cruciferous Allergy
+1204,All Season,Nectarine,Stone Fruit Allergy
+1205,All Season,Nira,Allium Allergy
+1206,All Season,Okra,Histamine Allergy
+1207,All Season,Onion,Allium Allergy
+1208,All Season,Orange,Citrus Allergy
+1209,All Season,Orange pulp,Citrus Allergy
+1210,All Season,Papaya,Oral Allergy Syndrome
+1211,All Season,Parsley,Hypersensitivity
+1212,All Season,Parsnip,Hypersensitivity
+1213,All Season,Passion fruit,Oral Allergy Syndrome
+1214,All Season,Peach,Stone Fruit Allergy
+1215,All Season,Peanut,Peanut Allergy
+1216,All Season,Pear,Oral Allergy Syndrome
+1217,All Season,Peas,Legume Allergy
+1218,All Season,Peas,Legume Allergy
+1219,All Season,Pecan,Nut Allergy
+1220,All Season,Pegia,Legume Allergy
+1221,All Season,Peppermint,Mint Allergy
+1222,All Season,Percifomes,Fish Allergy
+1223,All Season,Pig,Alpha-gal Syndrome
+1224,All Season,Pineapple,Oral Allergy Syndrome
+1225,All Season,Popcorn,Corn Allergy
+1226,All Season,Potato,Potato Allergy
+1227,All Season,Prune,Stone Fruit Allergy
+1228,All Season,Qing-geng-cai,Cruciferous Allergy
+1229,All Season,Quince,Oral Allergy Syndrome
+1230,All Season,Radish root,Hypersensitivity
+1231,All Season,Rapeseed,Seed Allergy
+1232,All Season,Raspberry,Salicylate Allergy
+1233,All Season,Rice,Rice Allergy
+1234,All Season,Royal Jelly,Honey Allergy
+1235,All Season,Rye,Gluten Allergy
+1236,All Season,Safflower seed,Seed Allergy
+1237,All Season,Salmon,Fish Allergy
+1238,All Season,Salsify,Insulin Allergy
+1239,All Season,Sansho,Pepper Allergy
+1240,All Season,Sea Bass,Fish Allergy
+1241,All Season,Sea Bream,Fish Allergy
+1242,All Season,Sesame seed,Seed Allergy
+1243,All Season,Shallot,Allium Allergy
+1244,All Season,Sheep,Alpha-gal Syndrome
+1245,All Season,Shelled mollusc,Fish Allergy
+1246,All Season,Shiitake  mushroom,Mushroom Allergy
+1247,All Season,Shungiku,Insulin Allergy
+1248,All Season,Sour cream,Milk allergy / Lactose intolerance
+1249,All Season,Soybean,Soy Allergy
+1250,All Season,Spearmint,Mint Allergy
+1251,All Season,Spinach,Histamine Allergy
+1252,All Season,Strawberry,Salicylate Allergy
+1253,All Season,Sugar,Sugar Allergy / Intolerance
+1254,All Season,Sugar beet,Sugar Allergy / Intolerance
+1255,All Season,Sugarcane,Sugar Allergy / Intolerance
+1256,All Season,Sultani,Legume Allergy
+1257,All Season,Sultapya,Legume Allergy
+1258,All Season,Sunflower seed,Seed Allergy
+1259,All Season,Sweet corn,Corn Allergy
+1260,All Season,Sweet Pepper,Nightshade Allergy
+1261,All Season,Sweet potato,Potato Allergy
+1262,All Season,Taro,Potato Allergy
+1263,All Season,Tea,Tannin Allergy
+1264,All Season,Tetraodontiformes,Fish Allergy
+1265,All Season,Tomato,Nightshade Allergy
+1266,All Season,Trout,Fish Allergy
+1267,All Season,Tuna,Fish Allergy
+1268,All Season,Turkey,Poultry Allergy
+1269,All Season,Turnip root,Thyroid
+1270,All Season,Walnut,Nut Allergy
+1271,All Season,Welsh,Allium Allergy
+1272,All Season,Wheat,Gluten Allergy
+1273,All Season,Whey,Milk allergy / Lactose intolerance
+1274,All Season,White bean,Legume Allergy
+1275,All Season,Yam,Potato Allergy
+1276,All Season,Yogurt ,Milk allergy / Lactose intolerance
